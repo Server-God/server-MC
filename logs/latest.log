@@ -563,3 +563,68 @@ Caused by: java.lang.IllegalAccessError: tried to access method ru.tehkode.permi
 [17:31:06] [Craft Scheduler Thread - 25/INFO]: [0;30;1mMCManager > [0;33;1m[21mSaving Data... Expect lag for a short while.[m
 [17:31:06] [Craft Scheduler Thread - 25/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
 [17:31:09] [Craft Scheduler Thread - 25/INFO]: [0;30;1mMCManager > [0;32;1m[21mBackup complete.[m
+[17:35:09] [Server thread/INFO]: Stopping the server
+[17:35:09] [Server thread/INFO]: Stopping server
+[17:35:09] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[17:35:09] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[17:35:09] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
+[17:35:09] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
+[17:35:09] [Server thread/INFO]: [SignShopHotel] Disabling SignShopHotel v1.2.0
+[17:35:09] [Server thread/INFO]: [SignShopHotel] Disabled
+[17:35:09] [Server thread/INFO]: [SignShop] Disabling SignShop v2.11.2
+[17:35:09] [Server thread/INFO]: [SignShop] Successfully cancelled Async Storage task with ID: 18
+[17:35:09] [Server thread/INFO]: [SignShop] Disabled
+[17:35:09] [Server thread/INFO]: [Jobs] Disabling Jobs v4.2.1
+[17:35:09] [Server thread/INFO]: [0;33;1m[Jobs] Saved 174 new explorer entries.[m
+[17:35:09] [Server thread/INFO]: [0;33;1m[Jobs] Updated 7 explorer entries.[m
+[17:35:09] [Server thread/INFO]: [Jobs] Saving blocks
+[17:35:09] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Buffered payment thread shutdown.[m
+[17:35:09] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Database save task shutdown![m
+[17:35:09] [Server thread/INFO]: [0;33;1m[Jobs] [0;32;22mPlugin has been disabled succesfully.[m
+[17:35:09] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v15.4
+[17:35:09] [Server thread/INFO]: [DiscordSRV] Saved linked accounts in 17ms
+[17:35:09] [Server thread/INFO]: [DiscordSRV] Saved metrics in 17ms
+[17:35:09] [Server thread/INFO]: [DiscordSRV] Shutdown completed in 192ms
+[17:35:09] [Server thread/INFO]: [ASkyBlock] Disabling ASkyBlock v3.0.8.2
+[17:35:09] [Server thread/INFO]: [ASkyBlock] Saving offline messages...
+[17:35:09] [Server thread/INFO]: [ASkyBlock] Saving top ten list
+[17:35:09] [Server thread/INFO]: [ASkyBlock] Saved top ten list
+[17:35:09] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.8
+[17:35:09] [Server thread/INFO]: [MultiWorld] Disabled.
+[17:35:09] [Server thread/INFO]: [EnjinMinecraftPlugin] Disabling EnjinMinecraftPlugin v3.4.3
+[17:35:09] [Server thread/INFO]: [OreGenerator] Disabling OreGenerator v2.0
+[17:35:09] [Server thread/INFO]: [ChatManager] Disabling ChatManager v48.1.12
+[17:35:09] [Server thread/INFO]: [0;32;1m[21mChatManager [0;37;22m[21m>> [0;31;1mPlugin Has Been Disabled.[m
+[17:35:09] [Server thread/INFO]: [0;32;1m[21mChatManager [0;37;22m[21m>> [0;33;1mPlugin By:[0;33;22m A_Brave_Panda[m
+[17:35:09] [Server thread/WARN]: &6&l{name}, You must wait {time} more [seconds] to chat again.
+[17:35:09] [Server thread/INFO]: [Warps] Disabling Warps v8.2
+[17:35:09] [Server thread/INFO]: [Warps] Plugin has been Disabled!
+[17:35:09] [Server thread/INFO]: [Vault] Disabling Vault v1.6.1
+[17:35:09] [Server thread/INFO]: [NoMelt] Disabling NoMelt v1.0.0
+[17:35:09] [Server thread/INFO]: Disabled NoMelt
+[17:35:09] [Server thread/INFO]: [WorldSpawn] Disabling WorldSpawn v1.1
+[17:35:09] [Server thread/INFO]: [Gringotts] Disabling Gringotts v2.10-SNAPSHOT
+[17:35:09] [Server thread/INFO]: [Gringotts] disabled
+[17:35:09] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.1.4
+[17:35:09] [Server thread/INFO]: [MCManager] Disabling MCManager v3.0.1
+[17:35:09] [Server thread/INFO]: [Fly] Disabling Fly v1.1
+[17:35:09] [Server thread/INFO]: [Fly] Fly has been disabled
+[17:35:09] [Server thread/INFO]: [MinePacks] Disabling MinePacks v1.17.6
+[17:35:09] [Server thread/INFO]: [MinePacks] Checking for updates ...
+[17:35:09] [Server thread/INFO]: Minepacks-Connection-Pool - is closing down.
+[17:35:09] [Server thread/INFO]: [MinePacks] MinePacks has been disabled.
+[17:35:09] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[17:35:09] [Server thread/INFO]: [tpa] Disabling tpa v1.0
+[17:35:09] [Server thread/INFO]: [tpa] Successfully disabled version 1.0!
+[17:35:09] [Server thread/INFO]: Saving players
+[17:35:10] [Server thread/INFO]: Redneck_Crazy04 lost connection: Server closed
+[17:35:10] [Server thread/INFO]: Redneck_Crazy04 left the game
+[17:35:10] [Server thread/INFO]: glitchlord lost connection: Server closed
+[17:35:10] [Server thread/INFO]: glitchlord left the game
+[17:35:10] [Server thread/INFO]: Saving worlds
+[17:35:10] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[17:35:10] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[17:35:10] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[17:35:10] [Server thread/INFO]: Saving chunks for level 'survival'/overworld
+[17:35:10] [Server thread/INFO]: Saving chunks for level 'ASkyBlock'/overworld
+[17:35:10] [Server thread/INFO]: Saving chunks for level 'ASkyBlock_nether'/the_nether
