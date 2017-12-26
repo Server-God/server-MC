@@ -7,8 +7,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 168/23/-165/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:23
@@ -23,8 +22,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 214/23/-165/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:18
@@ -39,8 +37,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 227/16/-160/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:1
@@ -55,8 +52,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 176/23/-160/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:25
@@ -71,8 +67,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 237/23/-162/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:15
@@ -87,8 +82,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 195/16/-160/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:11
@@ -131,8 +125,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 210/16/-165/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:7
@@ -147,8 +140,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 219/16/-165/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:6
@@ -163,8 +155,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 204/16/-160/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:12
@@ -179,8 +170,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 186/23/-165/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:21
@@ -195,8 +185,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 195/23/-160/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:27
@@ -232,8 +221,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 237/16/-165/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:3
@@ -248,8 +236,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 185/16/-160/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:10
@@ -264,8 +251,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 217/23/-157/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:29
@@ -280,8 +266,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 205/23/-165/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:19
@@ -296,8 +281,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 231/16/-138/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1w
     - RoomNr:31
@@ -312,8 +296,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 201/16/-165/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:8
@@ -328,8 +311,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 232/23/-165/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:16
@@ -343,8 +325,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 230/17/-140/world
-    items:
-    - null
+    items: []
   -17/124/183/ASkyBlock:
     owner: 8a72ddfa-db77-4f1a-ab25-c3e9eafa4403
     activatables: []
@@ -464,8 +445,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 242/16/-160/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:4
@@ -480,8 +460,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 213/16/-160/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:13
@@ -496,8 +475,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 185/23/-160/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:26
@@ -512,8 +490,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 196/23/-165/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:20
@@ -590,8 +567,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 223/23/-165/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:17
@@ -620,8 +596,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 234/23/-160/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:14
@@ -636,8 +611,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 220/23/-154/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:30
@@ -652,8 +626,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 167/23/-160/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:24
@@ -668,8 +641,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 192/16/-165/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:9
@@ -698,8 +670,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 228/16/-165/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:5
@@ -714,8 +685,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 177/23/-165/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:22
@@ -758,8 +728,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 204/23/-160/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:28
@@ -774,8 +743,7 @@ sellers:
     containables: []
     shopworld: world
     sign: 234/16/-160/world
-    items:
-    - null
+    items: []
     misc:
     - Period:1d
     - RoomNr:2

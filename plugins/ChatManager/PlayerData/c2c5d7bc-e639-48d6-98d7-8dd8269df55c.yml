@@ -4,10 +4,10 @@ PlayerInfo:
   Username: Redneck_Crazy04
   UUID: c2c5d7bc-e639-48d6-98d7-8dd8269df55c
   Location:
-    X: 265
-    Y: 2
-    Z: -94
-    World: world
+    X: -19
+    Y: 123
+    Z: 160
+    World: ASkyBlock
   Stats:
     Gamemode: creative
     Health: 20.0

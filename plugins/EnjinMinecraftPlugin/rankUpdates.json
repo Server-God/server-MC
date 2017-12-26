@@ -1,3 +1,30 @@
 {
-  "playerPerms": {}
+  "playerPerms": {
+    "Redneck_Crazy04": {
+      "uuid": "c2c5d7bc-e639-48d6-98d7-8dd8269df55c",
+      "worlds": {
+        "world": [
+          "OverallOwner"
+        ],
+        "world_the_end": [
+          "OverallOwner"
+        ],
+        "world_nether": [
+          "OverallOwner"
+        ],
+        "ASkyBlock": [
+          "OverallOwner"
+        ],
+        "survival": [
+          "OverallOwner"
+        ],
+        "ASkyBlock_nether": [
+          "OverallOwner"
+        ],
+        "*": [
+          "OverallOwner"
+        ]
+      }
+    }
+  }
 }

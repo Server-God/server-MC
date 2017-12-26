@@ -364,3 +364,82 @@
 [18:21:20] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel TC:console(394979248223289354)
 [18:21:20] [DiscordSRV - Initialization/INFO]: [DiscordSRV] No chat plugin hooks enabled
 [18:21:20] [Server thread/INFO]: [ASkyBlock] No update available.
+[18:21:43] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Online| Owner] moe > ?????
+[18:21:51] [User Authenticator #1/INFO]: UUID of player Redneck_Crazy04 is c2c5d7bc-e639-48d6-98d7-8dd8269df55c
+[18:21:52] [Server thread/INFO]: Redneck_Crazy04[/192.168.1.27:50878] logged in with entity id 14 at ([world]-4.5, 94.0, -2.5)
+[18:22:00] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Online| Owner] moe > Wassup buddy
+[18:22:08] [Server thread/INFO]: Opped redneck_crazy04
+[18:22:15] [Server thread/INFO]: Redneck_Crazy04 issued server command: /fly
+[18:22:20] [Async Chat Thread - #0/INFO]: [0;31;1m[[0;33;22mO[0;33;1mw[0;32;1mn[0;34;22me[0;36;1mr[0;35;1m][m [0;36;22m[21m[4m Redneck_Crazy04 : sup[m
+[18:22:31] [Server thread/INFO]: Redneck_Crazy04 issued server command: /is
+[18:22:31] [Server thread/INFO]: Title command successfully executed
+[18:22:39] [Async Chat Thread - #0/INFO]: [0;31;1m[[0;33;22mO[0;33;1mw[0;32;1mn[0;34;22me[0;36;1mr[0;35;1m][m [0;36;22m[21m[4m Redneck_Crazy04 : u should go on the server[m
+[18:22:47] [Server thread/INFO]: Redneck_Crazy04 issued server command: /time set day
+[18:22:47] [Server thread/INFO]: [Redneck_Crazy04: Set the time to 1000]
+[18:22:56] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Online| Owner] moe > I can't
+[18:23:00] [Async Chat Thread - #0/INFO]: [0;31;1m[[0;33;22mO[0;33;1mw[0;32;1mn[0;34;22me[0;36;1mr[0;35;1m][m [0;36;22m[21m[4m Redneck_Crazy04 : y[m
+[18:23:40] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Online| Owner] moe > I just can't nothing changed
+[18:33:05] [Server thread/INFO]: Redneck_Crazy04 issued server command: /time set day
+[18:33:05] [Server thread/INFO]: [Redneck_Crazy04: Set the time to 1000]
+[18:33:10] [Async Chat Thread - #1/INFO]: [0;31;1m[[0;33;22mO[0;33;1mw[0;32;1mn[0;34;22me[0;36;1mr[0;35;1m][m [0;36;22m[21m[4m Redneck_Crazy04 : r u still there[m
+[18:33:39] [Async Chat Thread - #1/INFO]: [0;31;1m[[0;33;22mO[0;33;1mw[0;32;1mn[0;34;22me[0;36;1mr[0;35;1m][m [0;36;22m[21m[4m Redneck_Crazy04 : moe[m
+[18:34:09] [Async Chat Thread - #1/INFO]: [0;31;1m[[0;33;22mO[0;33;1mw[0;32;1mn[0;34;22me[0;36;1mr[0;35;1m][m [0;36;22m[21m[4m Redneck_Crazy04 : im gonna shut down the server now for about 1 hour or more[m
+[18:34:15] [Server thread/INFO]: Redneck_Crazy04 lost connection: Disconnected
+[18:34:15] [Server thread/INFO]: Redneck_Crazy04 left the game
+[18:34:26] [Server thread/INFO]: Stopping the server
+[18:34:26] [Server thread/INFO]: Stopping server
+[18:34:26] [Server thread/INFO]: [SignShopHotel] Disabling SignShopHotel v1.2.0
+[18:34:26] [Server thread/INFO]: [SignShopHotel] Disabled
+[18:34:26] [Server thread/INFO]: [SignShop] Disabling SignShop v2.11.2
+[18:34:26] [Server thread/INFO]: [SignShop] Successfully cancelled Async Storage task with ID: 18
+[18:34:26] [Server thread/INFO]: [SignShop] Disabled
+[18:34:26] [Server thread/INFO]: [Jobs] Disabling Jobs v4.2.1
+[18:34:26] [Server thread/INFO]: [Jobs] Saving blocks
+[18:34:26] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Database save task shutdown![m
+[18:34:26] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Buffered payment thread shutdown.[m
+[18:34:26] [Server thread/INFO]: [0;33;1m[Jobs] [0;32;22mPlugin has been disabled succesfully.[m
+[18:34:26] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v15.4
+[18:34:26] [Server thread/INFO]: [DiscordSRV] Saved linked accounts in 9ms
+[18:34:26] [Server thread/INFO]: [DiscordSRV] Saved metrics in 8ms
+[18:34:26] [Server thread/INFO]: [DiscordSRV] Shutdown completed in 155ms
+[18:34:26] [Server thread/INFO]: [ASkyBlock] Disabling ASkyBlock v3.0.8.2
+[18:34:26] [Server thread/INFO]: [ASkyBlock] Saving offline messages...
+[18:34:26] [Server thread/INFO]: [ASkyBlock] Saving top ten list
+[18:34:26] [Server thread/INFO]: [ASkyBlock] Saved top ten list
+[18:34:26] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.8
+[18:34:26] [Server thread/INFO]: [MultiWorld] Disabled.
+[18:34:26] [Server thread/INFO]: [EnjinMinecraftPlugin] Disabling EnjinMinecraftPlugin v3.4.3
+[18:34:26] [Server thread/INFO]: [OreGenerator] Disabling OreGenerator v2.0
+[18:34:26] [Server thread/INFO]: [ChatManager] Disabling ChatManager v48.1.12
+[18:34:26] [Server thread/INFO]: [0;32;1m[21mChatManager [0;37;22m[21m>> [0;31;1mPlugin Has Been Disabled.[m
+[18:34:26] [Server thread/INFO]: [0;32;1m[21mChatManager [0;37;22m[21m>> [0;33;1mPlugin By:[0;33;22m A_Brave_Panda[m
+[18:34:26] [Server thread/WARN]: &6&l{name}, You must wait {time} more [seconds] to chat again.
+[18:34:26] [Server thread/INFO]: [Warps] Disabling Warps v8.2
+[18:34:26] [Server thread/INFO]: [Warps] Plugin has been Disabled!
+[18:34:26] [Server thread/INFO]: [Vault] Disabling Vault v1.6.1
+[18:34:26] [Server thread/INFO]: [NoMelt] Disabling NoMelt v1.0.0
+[18:34:26] [Server thread/INFO]: Disabled NoMelt
+[18:34:26] [Server thread/INFO]: [WorldSpawn] Disabling WorldSpawn v1.1
+[18:34:26] [Server thread/INFO]: [Gringotts] Disabling Gringotts v2.10-SNAPSHOT
+[18:34:26] [Server thread/INFO]: [Gringotts] disabled
+[18:34:26] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.1.4
+[18:34:26] [Server thread/INFO]: [MCManager] Disabling MCManager v3.0.1
+[18:34:26] [Server thread/INFO]: [Fly] Disabling Fly v1.1
+[18:34:26] [Server thread/INFO]: [Fly] Fly has been disabled
+[18:34:26] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[18:34:26] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[18:34:26] [Server thread/INFO]: [MinePacks] Disabling MinePacks v1.17.6
+[18:34:26] [Server thread/INFO]: [MinePacks] Checking for updates ...
+[18:34:26] [Server thread/INFO]: Minepacks-Connection-Pool - is closing down.
+[18:34:26] [Server thread/INFO]: [MinePacks] MinePacks has been disabled.
+[18:34:26] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[18:34:26] [Server thread/INFO]: [tpa] Disabling tpa v1.0
+[18:34:26] [Server thread/INFO]: [tpa] Successfully disabled version 1.0!
+[18:34:26] [Server thread/INFO]: Saving players
+[18:34:27] [Server thread/INFO]: Saving worlds
+[18:34:27] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[18:34:27] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[18:34:27] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[18:34:27] [Server thread/INFO]: Saving chunks for level 'survival'/overworld
+[18:34:27] [Server thread/INFO]: Saving chunks for level 'ASkyBlock'/overworld
+[18:34:27] [Server thread/INFO]: Saving chunks for level 'ASkyBlock_nether'/the_nether
