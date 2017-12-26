@@ -1,0 +1,22 @@
+Stats:
+  TotalLogins: 1
+PlayerInfo:
+  Username: glitchlord
+  UUID: 8a72ddfa-db77-4f1a-ab25-c3e9eafa4403
+  Location:
+    X: -194
+    Y: 85
+    Z: 188
+    World: survival
+  Stats:
+    Gamemode: creative
+    Health: 20.0
+    Hunger: 20
+    Level: 0
+MuteSystem:
+  muted: 'False'
+  mutedcount: 0
+WarnSystem:
+  WarningsCount: 0
+MessagePeek:
+  Enabled: 'False'

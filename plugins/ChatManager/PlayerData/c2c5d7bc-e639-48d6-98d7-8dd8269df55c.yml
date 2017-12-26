@@ -1,0 +1,22 @@
+Stats:
+  TotalLogins: 1
+PlayerInfo:
+  Username: Redneck_Crazy04
+  UUID: c2c5d7bc-e639-48d6-98d7-8dd8269df55c
+  Location:
+    X: -4
+    Y: 94
+    Z: -2
+    World: world
+  Stats:
+    Gamemode: survival
+    Health: 20.0
+    Hunger: 20
+    Level: 0
+MuteSystem:
+  muted: 'False'
+  mutedcount: 0
+WarnSystem:
+  WarningsCount: 0
+MessagePeek:
+  Enabled: 'False'

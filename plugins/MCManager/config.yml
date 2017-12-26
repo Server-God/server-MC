@@ -1,0 +1,33 @@
+# This is the main configuration file for MCManager. For support, please create a ticket here: https://betafase.com/issues/add-issue?id=2
+# 
+# The language of the Plugin. default: en_US, if other the path must be given, e.g. plugins/MCManager/lang/de_DE.yml
+language: en_US
+ban_command: ban %player% %arg0%%arg1%%arg2%%arg3%
+webserver:
+  port: 8282
+  autostart: true
+  accounts:
+    user: T8D0770
+sandbox: false
+negated_permissions: true
+backup:
+  enabled: true
+  interval: 30
+  worlds: true
+  folder: backups
+  zip: true
+  amount: 5
+  empty: false
+  experimental: false
+disabled_modules:
+- file.run
+disabled_files:
+- start.bat
+- start.sh
+player_inv:
+  warn: true
+plugin_updater:
+  always_check: false
+file:
+  drop_delete: true
+  safe_delete: true

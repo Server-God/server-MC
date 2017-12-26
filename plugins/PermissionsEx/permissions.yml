@@ -1,0 +1,101 @@
+groups:
+  Member:
+    options:
+      prefix: '&2[Member] &a'
+      default: true
+    permissions:
+    - backpack
+    - cmd.fly.use 
+    - tpa.tpa
+    - tpa.tpaccept
+    - tpa.deny
+    - jobs.item.*
+    - Signshop.Signs.*
+    - Signshop.CopyPaste
+    - Signshop.Permit
+    - askyblock.intopten
+    - askyblock.team.join
+    - askyblock.team.makeleader
+    - askyblock.team.kick
+    - askyblock.team.create
+    - askyblock.island.controlpanel
+    - askyblock.island.*
+    - worldspawn.use
+    - discordsrv.player
+    - chaton.chatmanager
+    - chatoff.chatmanager
+    - sign.chatmanager
+    - staffchat.send.chatmanager
+    - jobs.use
+    - multiworld.command.goto
+    - worldguard.build.block.interact.*
+  Operator:
+    options:
+      prefix: '&8[Operator] &7'
+    inheritance:
+    - Member
+    permissions:
+    - backpack.*
+    - cmd.flyother.use
+    - bukkit.*
+    - minecraft.*
+    - Signshop.Admin.*
+  Developer:
+    options:
+      prefix: '&1[&k000&1Developer&k000] &c'
+    inheritance:
+    - Operator
+    permissions:
+    - backpack.KeepOnDeath
+    - PlugMan.load
+    - PlugMan.enable
+    - PlugMan.disable
+    - PlugMan.reloadconfig
+    - PlugMan.clear
+    - PlugMan.list
+    - askyblock.coop
+    - worldedit.*
+    - worldguard.*
+  Moderator:
+    options:
+      prefix: '&4[Moderator] &c'
+    inheritance:
+    - Developer
+    permissions:
+    - bukkit.*
+    - minecraft.*
+    - mcm.* 
+    - askyblock.mod.*
+    - jobs.*
+    - bb.admin
+    - bb.use
+    - multiworld.command.*
+    - Signshop.SuperAdmin
+  Owner:
+    options:
+      prefix: '&6[Owner] &e'
+    inheritance:
+    - Moderator
+    permissions:
+    - askyblock.admin.*
+
+  OverallOwner:
+    options:
+      prefix: '&c[&6O&ew&an&1e&br&d]&r &3&l&n'
+    inheritance:
+    - Moderator
+    permissions:
+    - -mcm.player
+schema-version: 1
+users:
+  8a72ddfa-db77-4f1a-ab25-c3e9eafa4403:
+    group:
+    - Owner
+    options:
+      name: glitchlord
+  c2c5d7bc-e639-48d6-98d7-8dd8269df55c:
+    group:
+    - OverallOwner
+    options:
+      name: Dumbass
+ 
