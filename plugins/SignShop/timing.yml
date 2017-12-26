@@ -1,1 +1,89 @@
-expirables: {}
+expirables:
+  org=wargamer2010=sshotel=timing=RoomExpiration~18:
+    roomnr: '14'
+    hotel: Grand Hotel
+    _timeleft: '85844'
+  org=wargamer2010=sshotel=timing=RoomExpiration~19:
+    roomnr: '29'
+    hotel: Grand Hotel
+    _timeleft: '85917'
+  org=wargamer2010=sshotel=timing=RoomExpiration~9:
+    roomnr: '21'
+    hotel: Grand Hotel
+    _timeleft: '85809'
+  org=wargamer2010=sshotel=timing=RoomExpiration~1:
+    roomnr: '2'
+    hotel: Grand Hotel
+    _timeleft: '85502'
+  org=wargamer2010=sshotel=timing=RoomExpiration~2:
+    roomnr: '1'
+    hotel: Grand Hotel
+    _timeleft: '85507'
+  org=wargamer2010=sshotel=timing=RoomExpiration~3:
+    roomnr: '3'
+    hotel: Grand Hotel
+    _timeleft: '85517'
+  org=wargamer2010=sshotel=timing=RoomExpiration~4:
+    roomnr: '24'
+    hotel: Grand Hotel
+    _timeleft: '85798'
+  org=wargamer2010=sshotel=timing=RoomExpiration~5:
+    roomnr: '23'
+    hotel: Grand Hotel
+    _timeleft: '85800'
+  org=wargamer2010=sshotel=timing=RoomExpiration~6:
+    roomnr: '22'
+    hotel: Grand Hotel
+    _timeleft: '85802'
+  org=wargamer2010=sshotel=timing=RoomExpiration~20:
+    roomnr: '30'
+    hotel: Grand Hotel
+    _timeleft: '85919'
+  org=wargamer2010=sshotel=timing=RoomExpiration~7:
+    roomnr: '25'
+    hotel: Grand Hotel
+    _timeleft: '85804'
+  org=wargamer2010=sshotel=timing=RoomExpiration~8:
+    roomnr: '26'
+    hotel: Grand Hotel
+    _timeleft: '85806'
+  org=wargamer2010=sshotel=timing=RoomExpiration~12:
+    roomnr: '19'
+    hotel: Grand Hotel
+    _timeleft: '85818'
+  org=wargamer2010=sshotel=timing=RoomExpiration~13:
+    roomnr: '28'
+    hotel: Grand Hotel
+    _timeleft: '85821'
+  org=wargamer2010=sshotel=timing=RoomExpiration~10:
+    roomnr: '27'
+    hotel: Grand Hotel
+    _timeleft: '85814'
+  org=wargamer2010=sshotel=timing=RoomExpiration~21:
+    roomnr: '31'
+    hotel: Grand Hotel
+    _timeleft: '604594'
+  org=wargamer2010=sshotel=timing=RoomExpiration~11:
+    roomnr: '20'
+    hotel: Grand Hotel
+    _timeleft: '85815'
+  org=wargamer2010=sshotel=timing=RoomExpiration~16:
+    roomnr: '16'
+    hotel: Grand Hotel
+    _timeleft: '85841'
+  org=wargamer2010=sshotel=timing=RoomExpiration~17:
+    roomnr: '15'
+    hotel: Grand Hotel
+    _timeleft: '85843'
+  org=wargamer2010=sshotel=timing=RoomExpiration~14:
+    roomnr: '18'
+    hotel: Grand Hotel
+    _timeleft: '85823'
+  org=wargamer2010=sshotel=timing=RoomExpiration~0:
+    roomnr: '4'
+    hotel: Grand Hotel
+    _timeleft: '85477'
+  org=wargamer2010=sshotel=timing=RoomExpiration~15:
+    roomnr: '17'
+    hotel: Grand Hotel
+    _timeleft: '85828'

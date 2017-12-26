@@ -1,705 +1,565 @@
-[15:43:53] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[15:43:53] [Server thread/INFO]: Loading properties
-[15:43:53] [Server thread/INFO]: Default game type: SURVIVAL
-[15:43:53] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-549c1fa-45c8386 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
-[15:43:53] [Server thread/INFO]: Debug logging is disabled
-[15:43:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:43:53] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:43:53] [Server thread/INFO]: Generating keypair
-[15:43:53] [Server thread/INFO]: Starting Minecraft server on redneckdomain:25565
-[15:43:53] [Server thread/INFO]: Using default channel type
-[15:43:53] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[15:43:53] [Server thread/ERROR]: ebean.properties not found
-[15:43:54] [Server thread/INFO]: DataSourcePool [Gringotts] autoCommit[false] transIsolation[SERIALIZABLE] min[2] max[20]
-[15:43:54] [Server thread/INFO]: SubClassFactory parent ClassLoader [org.bukkit.plugin.java.PluginClassLoader]
-[15:43:54] [Server thread/INFO]: Entities enhanced[0] subclassed[2]
-[15:43:54] [Server thread/INFO]: Reflections took 122 ms to scan 14 urls, producing 13 keys and 21 values 
-[15:43:54] [Server thread/INFO]: [tpa] Loading tpa v1.0
-[15:43:54] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
-[15:43:54] [Server thread/INFO]: [MinePacks] Loading MinePacks v1.17.6
-[15:43:54] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
-[15:43:54] [Server thread/INFO]: [Fly] Loading Fly v1.1
-[15:43:54] [Server thread/INFO]: [MCManager] Loading MCManager v3.0.1
-[15:43:54] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.4
-[15:43:54] [Server thread/INFO]: [Gringotts] Loading Gringotts v2.10-SNAPSHOT
-[15:43:54] [Server thread/INFO]: [WorldSpawn] Loading WorldSpawn v1.1
-[15:43:54] [Server thread/INFO]: [NoMelt] Loading NoMelt v1.0.0
-[15:43:54] [Server thread/INFO]: [Vault] Loading Vault v1.6.1
-[15:43:54] [Server thread/INFO]: [Warps] Loading Warps v8.2
-[15:43:54] [Server thread/INFO]: [ChatManager] Loading ChatManager v48.1.12
-[15:43:54] [Server thread/INFO]: [OreGenerator] Loading OreGenerator v2.0
-[15:43:54] [Server thread/INFO]: [InstantReset] Loading InstantReset v1.9-antony
-[15:43:54] [Server thread/INFO]: [EnjinMinecraftPlugin] Loading EnjinMinecraftPlugin v3.4.3
-[15:43:54] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.8
-[15:43:54] [Server thread/INFO]: [ASkyBlock] Loading ASkyBlock v3.0.8.2
-[15:43:54] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v15.4
-[15:43:54] [Server thread/INFO]: [Jobs] Loading Jobs v4.2.1
-[15:43:54] [Server thread/INFO]: [SignShop] Loading SignShop v2.11.2
-[15:43:54] [Server thread/INFO]: [SignShopHotel] Loading SignShopHotel v1.2.0
-[15:43:54] [Server thread/INFO]: [Gringotts] Enabling Gringotts v2.10-SNAPSHOT
-[15:43:54] [Server thread/INFO]: [Gringotts] Found Bukkit version: 1.12.2-R0.1-SNAPSHOT. All features enabled.
-[15:43:55] [Server thread/INFO]: [Gringotts] Unable to hook plugin Factions
-[15:43:55] [Server thread/WARN]: [Gringotts] Unable to load Factions handler because your version of Factions is not compatible with Gringotts. Factions support will not work
-[15:43:55] [Server thread/INFO]: [Gringotts] Unable to hook plugin Towny
-[15:43:55] [Server thread/WARN]: [Gringotts] Unable to load Towny handler. Towny support will not work
-[15:43:55] [Server thread/INFO]: [Gringotts] Plugin Vault hooked.
-[15:43:55] [Server thread/INFO]: [Gringotts] Unable to hook plugin WorldGuard
-[15:43:55] [Server thread/INFO]: [Gringotts] Registered Vault interface.
-[15:43:55] [Server thread/INFO]: [Vault] Enabling Vault v1.6.1
-[15:43:55] [Server thread/INFO]: [Vault][Economy] Gringotts hooked.
-[15:43:55] [Server thread/INFO]: [Vault] [Economy] Gringotts found: Loaded
-[15:43:55] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
-[15:43:55] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[15:43:55] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
-[15:43:55] [Server thread/INFO]: [Vault] Plugin enabled (48ms)
-[15:43:55] [Server thread/INFO]: [ASkyBlock] Enabling ASkyBlock v3.0.8.2
-[15:43:55] [Server thread/INFO]: [ASkyBlock] Loading entity limits
-[15:43:55] [Server thread/INFO]: [ASkyBlock] HOPPER will be limited to 30
-[15:43:55] [Server thread/INFO]: [ASkyBlock] Loaded default island schematic.
-[15:43:55] [Server thread/INFO]: [ASkyBlock] Loaded default nether schematic.
-[15:43:55] [Server thread/INFO]: [ASkyBlock] Loading schematic The Original (island.schematic) for all players, order 1
-[15:43:55] [Server thread/INFO]: [ASkyBlock] Loading schematic NetherBlock Island (nether.schematic) for all players, order 0
-[15:43:55] [Server thread/INFO]: [ASkyBlock] Loading schematic Island Duo (double.schematic) for all players, order 2
-[15:43:55] [Server thread/INFO]: [ASkyBlock] Loading schematic §lBlack §bDiamonds (harder.schematic) for all players, order 3
-[15:43:55] [Server thread/INFO]: [ASkyBlock] Loading offline messages...
-[15:43:55] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[15:43:55] [Server thread/INFO]: Preparing level "world"
-[15:43:55] [Server thread/INFO]: -------- World Settings For [world] --------
-[15:43:55] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:43:55] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:43:55] [Server thread/INFO]: View Distance: 10
-[15:43:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:43:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:43:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:43:55] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:43:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:43:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[15:43:55] [Server thread/INFO]: Mob Spawn Range: 4
-[15:43:55] [Server thread/INFO]: Hopper Transfer: 32 Hopper Check: 1 Hopper Amount: 1
-[15:43:55] [Server thread/INFO]: Max TNT Explosions: 100
-[15:43:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:43:55] [Server thread/INFO]: Structure Info Saving: true
-[15:43:55] [Server thread/INFO]: Cactus Growth Modifier: 5000%
-[15:43:55] [Server thread/INFO]: Cane Growth Modifier: 8000%
-[15:43:55] [Server thread/INFO]: Melon Growth Modifier: 7000%
-[15:43:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:43:55] [Server thread/INFO]: Pumpkin Growth Modifier: 7000%
-[15:43:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:43:55] [Server thread/INFO]: Wheat Growth Modifier: 500%
-[15:43:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:43:55] [Server thread/INFO]: Vine Growth Modifier: 50%
-[15:43:55] [Server thread/INFO]: Cocoa Growth Modifier: 5000%
-[15:43:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[15:43:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:43:55] [Server thread/INFO]: Random Lighting Updates: false
-[15:43:56] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[15:43:56] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:43:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:43:56] [Server thread/INFO]: View Distance: 10
-[15:43:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:43:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:43:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:43:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:43:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:43:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[15:43:56] [Server thread/INFO]: Mob Spawn Range: 4
-[15:43:56] [Server thread/INFO]: Hopper Transfer: 32 Hopper Check: 1 Hopper Amount: 1
-[15:43:56] [Server thread/INFO]: Max TNT Explosions: 100
-[15:43:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:43:56] [Server thread/INFO]: Structure Info Saving: true
-[15:43:56] [Server thread/INFO]: Cactus Growth Modifier: 5000%
-[15:43:56] [Server thread/INFO]: Cane Growth Modifier: 8000%
-[15:43:56] [Server thread/INFO]: Melon Growth Modifier: 7000%
-[15:43:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:43:56] [Server thread/INFO]: Pumpkin Growth Modifier: 7000%
-[15:43:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:43:56] [Server thread/INFO]: Wheat Growth Modifier: 500%
-[15:43:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:43:56] [Server thread/INFO]: Vine Growth Modifier: 50%
-[15:43:56] [Server thread/INFO]: Cocoa Growth Modifier: 5000%
-[15:43:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[15:43:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:43:56] [Server thread/INFO]: Random Lighting Updates: false
-[15:43:56] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[15:43:56] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:43:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:43:56] [Server thread/INFO]: View Distance: 10
-[15:43:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:43:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:43:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:43:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:43:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:43:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[15:43:56] [Server thread/INFO]: Mob Spawn Range: 4
-[15:43:56] [Server thread/INFO]: Hopper Transfer: 32 Hopper Check: 1 Hopper Amount: 1
-[15:43:56] [Server thread/INFO]: Max TNT Explosions: 100
-[15:43:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:43:56] [Server thread/INFO]: Structure Info Saving: true
-[15:43:56] [Server thread/INFO]: Cactus Growth Modifier: 5000%
-[15:43:56] [Server thread/INFO]: Cane Growth Modifier: 8000%
-[15:43:56] [Server thread/INFO]: Melon Growth Modifier: 7000%
-[15:43:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:43:56] [Server thread/INFO]: Pumpkin Growth Modifier: 7000%
-[15:43:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:43:56] [Server thread/INFO]: Wheat Growth Modifier: 500%
-[15:43:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:43:56] [Server thread/INFO]: Vine Growth Modifier: 50%
-[15:43:56] [Server thread/INFO]: Cocoa Growth Modifier: 5000%
-[15:43:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[15:43:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:43:56] [Server thread/INFO]: Random Lighting Updates: false
-[15:43:56] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3284846687822348625)
-[15:43:56] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3497403547101501287)
-[15:43:57] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3497403547101501287)
-[15:43:57] [Server thread/INFO]: [tpa] Enabling tpa v1.0
-[15:43:57] [Server thread/INFO]: [tpa] Successfully enabled version 1.0!
-[15:43:57] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
-[15:43:58] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[15:43:58] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
-[15:43:58] [Server thread/INFO]: [MinePacks] Enabling MinePacks v1.17.6
-[15:43:58] [Server thread/INFO]: [MinePacks] Configuration Version: 15 => Configuration outdated! Upgrading ...
-[15:43:58] [Server thread/INFO]: [MinePacks] No config found. Create new one ...
-[15:43:58] [Server thread/INFO]: [MinePacks] Configuration extracted successfully!
-[15:43:58] [Server thread/INFO]: [MinePacks] Configuration has been updated.
-[15:43:58] [Server thread/INFO]: Minepacks-Connection-Pool - is starting.
-[15:43:58] [Server thread/INFO]: [MinePacks] Checking for updates ...
-[15:43:58] [Server thread/INFO]: [MinePacks] MinePacks has been enabled!
-[15:43:58] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[15:43:58] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[15:43:58] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[15:43:58] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[15:43:58] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[15:43:58] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[15:43:58] [Server thread/INFO]: [Fly] Enabling Fly v1.1
-[15:43:58] [Server thread/INFO]: [Fly] Fly has been enabled!
-[15:43:58] [Server thread/INFO]: [MCManager] Enabling MCManager v3.0.1
-[15:43:58] [Server thread/WARN]: [MCManager] Dependency ProtocolLib not found. Please install it to use all functions.
-[15:43:58] [Server thread/INFO]: [MCManager] Everything is working fine. Enabling API now.
-[15:43:58] [Server thread/INFO]: [Translator] Loaded language 'English(United States)' into cache for Plugin 'MCManager'
-[15:43:58] [Server thread/INFO]: [MCManager] Loaded en_US as the default language.
-[15:43:58] [Server thread/INFO]: [MCManager] Starting automated backup...
-[15:43:58] [Server thread/INFO]: [MCManager] Automatic Backup is currently set to 30 minutes. You can change this in the config.
-[15:43:58] [Server thread/INFO]: [MCManager] Starting WebServer on port 8,282 ...
-[15:43:58] [Server thread/INFO]: [MCManager] Checking for Plugin Updates...
-[15:43:58] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.1.4
-[15:43:58] [Server thread/INFO]: [WorldSpawn] Enabling WorldSpawn v1.1
-[15:43:58] [Server thread/INFO]: [WorldSpawn] Hello server!
-[15:43:58] [Server thread/INFO]: [WorldSpawn] World Spawn by Bluecoaster455 v1.1
-[15:43:58] [Server thread/INFO]: [NoMelt] Enabling NoMelt v1.0.0
-[15:43:58] [Server thread/INFO]: [NoMelt] Enabled
-[15:43:58] [Server thread/INFO]: [NoMelt] - Melting is disabled.
-[15:43:58] [Server thread/INFO]: [NoMelt] - Ice will drop
-[15:43:58] [Server thread/INFO]: [NoMelt] - Freezing is Disabled.
-[15:43:58] [Server thread/INFO]: [NoMelt] - Ice will NOT turn to water upon breaking.
-[15:43:58] [Server thread/INFO]: [Warps] Enabling Warps v8.2
-[15:43:58] [Server thread/INFO]: [Warps] Plugin has been activated!
-[15:43:58] [Server thread/INFO]: [ChatManager] Enabling ChatManager v48.1.12
-[15:43:58] [Server thread/INFO]: [0;32;1m[21mChatManager [0;37;22m[21m>> [0;32;1mPlugin Has Been Enabled.[m
-[15:43:58] [Server thread/INFO]: [0;32;1m[21mChatManager [0;37;22m[21m>> [0;33;1mPlugin By:[0;33;22m A_Brave_Panda[m
-[15:43:58] [Server thread/INFO]: [0;32;1m[21mChatManager [0;37;22m[21m>> [0;32;1mPermissionsEx Enabled[m
-[15:43:58] [Server thread/INFO]: [OreGenerator] Enabling OreGenerator v2.0
-[15:43:58] [Server thread/INFO]: [InstantReset] Enabling InstantReset v1.9-antony
-[15:43:58] [Server thread/ERROR]: [InstantReset] Unsupported server version: git-Spigot-549c1fa-45c8386 (MC: 1.12.2)
-[15:43:58] [Server thread/INFO]: [InstantReset] Disabling InstantReset v1.9-antony
-[15:43:58] [Server thread/INFO]: [EnjinMinecraftPlugin] Enabling EnjinMinecraftPlugin v3.4.3
-[15:43:58] [Server thread/INFO]: Initializing for the first time.
-[15:43:58] [Server thread/INFO]: Log4j 2 handler detected: com.enjin.common.compatibility.CurrentLog4j2Handler
-[15:43:59] [Server thread/INFO]: Reflections took 43 ms to scan 1 urls, producing 2 keys and 10 values 
-[15:43:59] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.8
-[15:43:59] [Server thread/INFO]: -------- World Settings For [survival] --------
-[15:43:59] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:43:59] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:43:59] [Server thread/INFO]: View Distance: 10
-[15:43:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:43:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:43:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:43:59] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:43:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:43:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[15:43:59] [Server thread/INFO]: Mob Spawn Range: 4
-[15:43:59] [Server thread/INFO]: Hopper Transfer: 32 Hopper Check: 1 Hopper Amount: 1
-[15:43:59] [Server thread/INFO]: Max TNT Explosions: 100
-[15:43:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:43:59] [Server thread/INFO]: Structure Info Saving: true
-[15:43:59] [Server thread/INFO]: Cactus Growth Modifier: 5000%
-[15:43:59] [Server thread/INFO]: Cane Growth Modifier: 8000%
-[15:43:59] [Server thread/INFO]: Melon Growth Modifier: 7000%
-[15:43:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:43:59] [Server thread/INFO]: Pumpkin Growth Modifier: 7000%
-[15:43:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:43:59] [Server thread/INFO]: Wheat Growth Modifier: 500%
-[15:43:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:43:59] [Server thread/INFO]: Vine Growth Modifier: 50%
-[15:43:59] [Server thread/INFO]: Cocoa Growth Modifier: 5000%
-[15:43:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[15:43:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:43:59] [Server thread/INFO]: Random Lighting Updates: false
-[15:43:59] [Server thread/INFO]: Preparing start region for level 3 (Seed: 6741938721861968436)
-[15:43:59] [Server thread/INFO]: [MultiWorld] [PortalHandler] loaded!
-[15:43:59] [Server thread/INFO]: [MultiWorld] [PortalHandler] loaded!
-[15:43:59] [Server thread/INFO]: [MultiWorld] v5.2.8 enabled.
-[15:43:59] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v15.4
-[15:43:59] [Server thread/INFO]: [Jobs] Enabling Jobs v4.2.1
-[15:44:00] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 8 titles![m
-[15:44:00] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 0 restricted areas![m
-[15:44:00] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 49 protected blocks timers![m
-[15:44:00] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 641 custom item names![m
-[15:44:00] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 41 custom entity names![m
-[15:44:00] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 27 custom enchant names![m
-[15:44:00] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 16 custom color names![m
-[15:44:00] [Server thread/INFO]: [0;33;1m[Jobs] 4 shop items loaded![m
-[15:44:00] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 12 jobs![m
-[15:44:00] [Server thread/INFO]: [0;33;1m[Jobs] Explorer job manager registered![m
-[15:44:00] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Started database save task.[m
-[15:44:00] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Started buffered payment thread.[m
-[15:44:00] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 0 schedulers![m
-[15:44:00] [Server thread/INFO]: [0;33;1m[Jobs] Preloaded 2 players data in 0.0[m
-[15:44:00] [Server thread/INFO]: [0;33;1m[Jobs] Loading explorer data[m
-[15:44:00] [Server thread/INFO]: [0;33;1m[Jobs] Loaded explorer data (124)[m
-[15:44:00] [Server thread/INFO]: [0;33;1m[Jobs] Plugin has been enabled succesfully.[m
-[15:44:00] [Server thread/INFO]: [SignShop] Enabling SignShop v2.11.2
-[15:44:00] [Server thread/INFO]: [SignShop] Succesfully started Metrics, see http://mcstats.org for more information.
-[15:44:00] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (de213ef335b25df6d667b19e7d339cd5b6f4d0bc)
-[15:44:00] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-17, 124, 183).
-[15:44:00] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-10, 127, 193).
-[15:44:00] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-14, 128, 193).
-[15:44:00] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-11, 126, 193).
-[15:44:01] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Language initialized as English
-[15:44:01] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Thank you so much to these people for allowing DiscordSRV to grow to what it is: Ac3dUd3, Androkai, anton8604, buildblox, Bysokar, CoreyD97, DeeKay, Diamondman121314/DMAN, FataL, Foxy, geekhideout, Helmic, KaizenWorlds, LDSG Ghost, Mick, Mitecraft, Rui, Ryan (The Loyal One), Sicnus
-[15:44:01] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-14, 128, 195).
-[15:44:01] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-9, 126, 193).
-[15:44:01] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-8, 127, 193).
-[15:44:01] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-7, 126, 193).
-[15:44:01] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-6, 127, 193).
-[15:44:01] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-12, 127, 193).
-[15:44:01] [Server thread/INFO]: [SignShop] v2.11.2 Enabled
-[15:44:01] [Server thread/INFO]: [SignShopHotel] Enabling SignShopHotel v1.2.0
-[15:44:01] [Server thread/INFO]: [SignShopHotel] Succesfully started Metrics, see http://mcstats.org for more information.
-[15:44:01] [Server thread/INFO]: [SignShopHotel] Enabled
-[15:44:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:44:02] [Server thread/INFO]: Done (6.332s)! For help, type "help" or "?"
-[15:44:02] [Server thread/INFO]: -------- World Settings For [ASkyBlock] --------
-[15:44:02] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:44:02] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:44:02] [Server thread/INFO]: View Distance: 10
-[15:44:02] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:44:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:44:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:44:02] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:44:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:44:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[15:44:02] [Server thread/INFO]: Mob Spawn Range: 4
-[15:44:02] [Server thread/INFO]: Hopper Transfer: 32 Hopper Check: 1 Hopper Amount: 1
-[15:44:02] [Server thread/INFO]: Max TNT Explosions: 100
-[15:44:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:44:02] [Server thread/INFO]: Structure Info Saving: true
-[15:44:02] [Server thread/INFO]: Cactus Growth Modifier: 5000%
-[15:44:02] [Server thread/INFO]: Cane Growth Modifier: 8000%
-[15:44:02] [Server thread/INFO]: Melon Growth Modifier: 7000%
-[15:44:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:44:02] [Server thread/INFO]: Pumpkin Growth Modifier: 7000%
-[15:44:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:44:02] [Server thread/INFO]: Wheat Growth Modifier: 500%
-[15:44:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:44:02] [Server thread/INFO]: Vine Growth Modifier: 50%
-[15:44:02] [Server thread/INFO]: Cocoa Growth Modifier: 5000%
-[15:44:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[15:44:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:44:02] [Server thread/INFO]: Random Lighting Updates: false
-[15:44:02] [Server thread/INFO]: Preparing start region for level 4 (Seed: -6996419123731146911)
-[15:44:02] [Server thread/INFO]: [SignShop] Loading shops for world: ASkyBlock
-[15:44:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
-[15:44:02] [Server thread/INFO]: Creating ASkyBlock's Nether...
-[15:44:02] [Server thread/INFO]: -------- World Settings For [ASkyBlock_nether] --------
-[15:44:02] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:44:02] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:44:02] [Server thread/INFO]: View Distance: 10
-[15:44:02] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:44:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:44:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:44:02] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:44:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:44:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[15:44:02] [Server thread/INFO]: Mob Spawn Range: 4
-[15:44:02] [Server thread/INFO]: Hopper Transfer: 32 Hopper Check: 1 Hopper Amount: 1
-[15:44:02] [Server thread/INFO]: Max TNT Explosions: 100
-[15:44:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:44:02] [Server thread/INFO]: Structure Info Saving: true
-[15:44:02] [Server thread/INFO]: Cactus Growth Modifier: 5000%
-[15:44:02] [Server thread/INFO]: Cane Growth Modifier: 8000%
-[15:44:02] [Server thread/INFO]: Melon Growth Modifier: 7000%
-[15:44:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:44:02] [Server thread/INFO]: Pumpkin Growth Modifier: 7000%
-[15:44:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:44:02] [Server thread/INFO]: Wheat Growth Modifier: 500%
-[15:44:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:44:02] [Server thread/INFO]: Vine Growth Modifier: 50%
-[15:44:02] [Server thread/INFO]: Cocoa Growth Modifier: 5000%
-[15:44:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[15:44:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:44:02] [Server thread/INFO]: Random Lighting Updates: false
-[15:44:02] [Server thread/INFO]: Preparing start region for level 5 (Seed: -5017571359908632679)
-[15:44:02] [Server thread/INFO]: [ASkyBlock] Silencing command feedback for Ops...
-[15:44:02] [Server thread/INFO]: Game rule sendCommandFeedback has been updated to false
-[15:44:02] [Server thread/INFO]: [ASkyBlock] If you do not want this, do /gamerule sendCommandFeedback true
-[15:44:02] [Server thread/INFO]: [ASkyBlock] Checking for new updates...
-[15:44:02] [Craft Scheduler Thread - 1/INFO]: [Vault] You are running the latest version
-[15:44:02] [Server thread/INFO]: [0;33;1m[Jobs] Successfully linked with Vault.[m
-[15:44:02] [Server thread/INFO]: [ASkyBlock] Loading island grid...
-[15:44:02] [Server thread/INFO]: [ASkyBlock] Loading islands.yml
-[15:44:02] [Server thread/INFO]: [ASkyBlock] Loading warps...
-[15:44:02] [Server thread/INFO]: [ASkyBlock] All files loaded. Ready to play...
-[15:44:02] [Server thread/INFO]: [ASkyBlock] Metrics loaded.
-[15:44:02] [Craft Scheduler Thread - 3/INFO]: [PlugMan] No update was found.
-[15:44:02] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
-[15:44:02] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
-[15:44:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Mine Warriors(393931041523630083)
-[15:44:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general(394357964095619093)
-[15:44:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:help(394358125425197056)
-[15:44:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:skyblock(394358074443431938)
-[15:44:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:server(394961839924183051)
-[15:44:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:console(394979248223289354)
-[15:44:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel TC:console(394979248223289354)
-[15:44:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] No chat plugin hooks enabled
-[15:44:03] [Server thread/INFO]: [ASkyBlock] No update available.
-[15:45:09] [User Authenticator #1/INFO]: UUID of player Redneck_Crazy04 is c2c5d7bc-e639-48d6-98d7-8dd8269df55c
-[15:45:10] [Server thread/INFO]: Redneck_Crazy04[/192.168.1.27:49940] logged in with entity id 11 at ([world]-4.5, 94.0, -2.5)
-[15:46:52] [Server thread/INFO]: Redneck_Crazy04 issued server command: /warp overworld
-[15:47:07] [Server thread/INFO]: Redneck_Crazy04 issued server command: /fly
-[15:57:18] [Server thread/INFO]: Redneck_Crazy04 issued server command: /weather clear
-[15:57:18] [Server thread/INFO]: [Redneck_Crazy04: Changing to clear weather]
-[15:57:30] [Server thread/INFO]: Redneck_Crazy04 issued server command: /time set day
-[15:57:30] [Server thread/INFO]: [Redneck_Crazy04: Set the time to 1000]
-[15:57:35] [Server thread/INFO]: Redneck_Crazy04 issued server command: /manager
-[15:58:07] [Server thread/INFO]: Redneck_Crazy04 issued server command: /weather clear
-[15:58:07] [Server thread/INFO]: [Redneck_Crazy04: Changing to clear weather]
-[15:58:10] [Server thread/INFO]: Redneck_Crazy04 issued server command: /manager
-[15:58:15] [Server thread/INFO]: Redneck_Crazy04 issued server command: /manager
-[15:58:18] [Server thread/INFO]: Redneck_Crazy04 issued server command: /time set day
-[15:58:18] [Server thread/INFO]: [Redneck_Crazy04: Set the time to 1000]
-[15:58:23] [Server thread/INFO]: Redneck_Crazy04 issued server command: /manager
-[15:58:42] [Server thread/INFO]: Redneck_Crazy04 issued server command: /spawn
-[16:00:05] [Server thread/INFO]: Given [redneck_crazy04's Head] * 1 to Redneck_Crazy04
-[16:01:49] [Server thread/INFO]: Given [darthbelac859's Head] * 1 to Redneck_Crazy04
-[16:02:09] [Server thread/INFO]: Given [glitchlord's Head] * 1 to Redneck_Crazy04
-[16:06:52] [Server thread/INFO]: Redneck_Crazy04 issued server command: /spawn
-[16:08:28] [User Authenticator #2/INFO]: UUID of player glitchlord is 8a72ddfa-db77-4f1a-ab25-c3e9eafa4403
-[16:08:28] [Server thread/INFO]: Title command successfully executed
-[16:08:29] [Server thread/WARN]: [DiscordSRV] Could not set nickname for MB:moe(U:moe(394273339327119360) / G:Mine Warriors(393931041523630083)) because the bot does not have the "Manage Nicknames" permission
-[16:08:29] [Server thread/INFO]: glitchlord[/192.168.1.16:59466] logged in with entity id 577715 at ([world]-4.5, 94.0, -2.5)
-[16:08:44] [Server thread/INFO]: glitchlord issued server command: //cut
-[16:08:53] [Server thread/INFO]: Redneck_Crazy04 issued server command: /jobs
-[16:08:53] [Server thread/INFO]: glitchlord issued server command: /fly
-[16:09:02] [Server thread/INFO]: Redneck_Crazy04 issued server command: /jobs browse
-[16:09:13] [Server thread/INFO]: glitchlord issued server command: //paste
-[16:09:31] [Server thread/INFO]: glitchlord issued server command: //undo
-[16:09:32] [Server thread/INFO]: glitchlord issued server command: //paste
-[16:10:11] [Server thread/INFO]: glitchlord issued server command: //replace barrier
-[16:10:15] [Server thread/INFO]: glitchlord issued server command: //replace barrier air
-[16:10:58] [Server thread/INFO]: Redneck_Crazy04 issued server command: /is
-[16:10:58] [Server thread/INFO]: Title command successfully executed
-[16:11:06] [Server thread/INFO]: Redneck_Crazy04 issued server command: /time set day
-[16:11:06] [Server thread/INFO]: [Redneck_Crazy04: Set the time to 1000]
-[16:11:21] [Server thread/INFO]: Redneck_Crazy04 issued server command: /spawn
-[16:11:21] [Server thread/INFO]: Title command successfully executed
-[16:11:48] [Server thread/INFO]: glitchlord issued server command: /jobs leave
-[16:11:52] [Server thread/INFO]: glitchlord issued server command: /jobs level
-[16:12:04] [Server thread/INFO]: Redneck_Crazy04 issued server command: /weather clear
-[16:12:04] [Server thread/INFO]: [Redneck_Crazy04: Changing to clear weather]
-[16:12:04] [Server thread/INFO]: glitchlord issued server command: //replace lapis
-[16:12:10] [Server thread/INFO]: glitchlord issued server command: //replace air gold
-[16:12:35] [Server thread/INFO]: glitchlord issued server command: //replace air gold
-[16:12:45] [Server thread/INFO]: glitchlord issued server command: //replace air gold
-[16:12:55] [Server thread/INFO]: glitchlord issued server command: //replace barrier gold
-[16:13:10] [Async Chat Thread - #0/INFO]: [0;33;22m[Owner] [0;33;1m Redneck_Crazy04 : hi[m
-[16:13:54] [Server thread/INFO]: glitchlord issued server command: /blockdata ~ ~1 ~ {Text2:"[\"\",{\"text\":\"Main Owner\",\"color\":\"black\"}]"}
-[16:13:54] [Server thread/INFO]: [glitchlord: Block data updated to: {x:-5,Text4:"{\"text\":\"\"}",y:92,Text3:"{\"text\":\"\"}",z:-14,Text2:"[\"\",{\"text\":\"Main Owner\",\"color\":\"black\"}]",id:"minecraft:sign",Text1:"{\"extra\":[{\"text\":\"Redneck_crazy04\"}],\"text\":\"\"}"}]
-[16:14:06] [Craft Scheduler Thread - 30/INFO]: [MCManager] Starting Backup...
-[16:14:06] [Craft Scheduler Thread - 30/INFO]: [0;30;1mMCManager > [0;33;1m[21mSaving Data... Expect lag for a short while.[m
-[16:14:06] [Craft Scheduler Thread - 30/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-[16:14:08] [Craft Scheduler Thread - 30/INFO]: [0;30;1mMCManager > [0;32;1m[21mBackup complete.[m
-[16:14:21] [Server thread/INFO]: glitchlord issued server command: /blockdata ~ ~1 ~ {Text2:"[\"\",{\"text\":\"Overall Owner\",\"color\":\"black\"}]"}
-[16:14:21] [Server thread/INFO]: [glitchlord: Block data updated to: {x:-5,Text4:"{\"text\":\"\"}",y:92,Text3:"{\"text\":\"\"}",z:-14,Text2:"[\"\",{\"text\":\"Overall Owner\",\"color\":\"black\"}]",id:"minecraft:sign",Text1:"{\"extra\":[{\"text\":\"Redneck_crazy04\"}],\"text\":\"\"}"}]
-[16:14:45] [Server thread/INFO]: glitchlord issued server command: /blockdata ~ ~1 ~ {Text2:"[\"\",{\"text\":\"glitchlord",\"color\":\"cyan\"}]"}
-[16:14:45] [Server thread/INFO]: [glitchlord: Data tag parsing failed: Expected non-empty key at: ...xt2:"[\"\",{\"text\":\"glitchlord",<--[HERE]]
-[16:14:58] [Server thread/INFO]: glitchlord issued server command: /blockdata ~ ~1 ~ {Text1:"[\"\",{\"text\":\"glitchlord",\"color\":\"blue\"}]"}
-[16:14:58] [Server thread/INFO]: [glitchlord: Data tag parsing failed: Expected non-empty key at: ...xt1:"[\"\",{\"text\":\"glitchlord",<--[HERE]]
-[16:15:08] [Server thread/INFO]: Opped redneck_crazy04
-[16:15:17] [Server thread/INFO]: glitchlord issued server command: /blockdata ~ ~1 ~ {Text1:"[\"\",{\"text\":\"glitchlord",\"color\":\"aqua\"}]"}
-[16:15:17] [Server thread/INFO]: [glitchlord: Data tag parsing failed: Expected non-empty key at: ...xt1:"[\"\",{\"text\":\"glitchlord",<--[HERE]]
-[16:15:22] [Async Chat Thread - #1/INFO]: [0;33;22m[Owner] [0;33;1m Redneck_Crazy04 : hi[m
-[16:15:31] [Server thread/INFO]: glitchlord issued server command: /blockdata ~ ~1 ~ {Text1:"[\"\",{\"text\":\"glitchlord",\"color\":\"aqua\"}]"}
-[16:15:31] [Server thread/INFO]: [glitchlord: Data tag parsing failed: Expected non-empty key at: ...xt1:"[\"\",{\"text\":\"glitchlord",<--[HERE]]
-[16:15:49] [Server thread/INFO]: Opped glitchlord
-[16:16:04] [Server thread/INFO]: glitchlord issued server command: /blockdata ~ ~1 ~ {Text1:"[\"\",{\"text\":\"Main Owner\",\"color\":\"aqua\"}]"}
-[16:16:04] [Server thread/INFO]: [glitchlord: Block data updated to: {x:-6,Text4:"{\"text\":\"\"}",y:92,Text3:"{\"text\":\"\"}",z:-14,Text2:"{\"extra\":[{\"text\":\"Co-Owner\"}],\"text\":\"\"}",id:"minecraft:sign",Text1:"[\"\",{\"text\":\"Main Owner\",\"color\":\"aqua\"}]"}]
-[16:16:15] [Server thread/INFO]: glitchlord issued server command: /blockdata ~ ~1 ~ {Text1:"[\"\",{\"text\":\"glitchlord\",\"color\":\"aqua\"}]"}
-[16:16:15] [Server thread/INFO]: [glitchlord: Block data updated to: {x:-6,Text4:"{\"text\":\"\"}",y:92,Text3:"{\"text\":\"\"}",z:-14,Text2:"{\"extra\":[{\"text\":\"Co-Owner\"}],\"text\":\"\"}",id:"minecraft:sign",Text1:"[\"\",{\"text\":\"glitchlord\",\"color\":\"aqua\"}]"}]
-[16:16:19] [Server thread/INFO]: glitchlord issued server command: /mw list
-[16:16:27] [Server thread/INFO]: glitchlord issued server command: /goto survival
-[16:16:27] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mglitchlord: Moved player glitchlord to world survival[m
-[16:16:43] [Server thread/INFO]: glitchlord issued server command: /hub
-[16:17:02] [Server thread/INFO]: glitchlord issued server command: /execute Redneck_Crazy04 ~ ~ ~ goto survival
-[16:17:13] [Server thread/INFO]: Redneck_Crazy04 issued server command: /manager
-[16:17:13] [Server thread/INFO]: glitchlord issued server command: /manager
-[16:17:25] [Server thread/INFO]: Redneck_Crazy04 lost connection: Disconnected
-[16:17:25] [Server thread/INFO]: Redneck_Crazy04 left the game
-[16:17:32] [User Authenticator #3/INFO]: UUID of player Redneck_Crazy04 is c2c5d7bc-e639-48d6-98d7-8dd8269df55c
-[16:17:32] [Server thread/INFO]: Redneck_Crazy04[/192.168.1.27:50142] logged in with entity id 840905 at ([world]-4.5, 94.0, -2.5)
-[16:17:33] [Server thread/INFO]: Redneck_Crazy04 fell from a high place
-[16:17:44] [Server thread/INFO]: glitchlord issued server command: /move redneck_crazy04
-[16:17:45] [Server thread/INFO]: Redneck_Crazy04 issued server command: /manager
-[16:17:50] [Server thread/INFO]: glitchlord issued server command: /mw move redneck_crazy04
-[16:17:55] [Server thread/INFO]: glitchlord issued server command: /mw move redneck_crazy04 survival
-[16:17:55] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mglitchlord: Moved player Redneck_Crazy04 to world survival[m
-[16:18:07] [Server thread/INFO]: glitchlord issued server command: /manager
-[16:18:18] [Server thread/INFO]: Redneck_Crazy04 issued server command: /weather clear
-[16:18:18] [Server thread/INFO]: [Redneck_Crazy04: Changing to clear weather]
-[16:18:23] [Server thread/INFO]: Redneck_Crazy04 issued server command: /time set day
-[16:18:23] [Server thread/INFO]: [Redneck_Crazy04: Set the time to 1000]
-[16:18:27] [Server thread/INFO]: glitchlord issued server command: /mw move redneck_crazy04 world
-[16:18:27] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mglitchlord: Moved player Redneck_Crazy04 to world world[m
-[16:18:30] [Server thread/INFO]: glitchlord issued server command: /mw move redneck_crazy04 survival
-[16:18:30] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mglitchlord: Moved player Redneck_Crazy04 to world survival[m
-[16:19:04] [Server thread/INFO]: Redneck_Crazy04 issued server command: /manager
-[16:19:09] [Server thread/INFO]: [Server] fuck off you bloody piece of shit
-[16:19:10] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[16:19:56] [Server thread/INFO]: glitchlord issued server command: /blockdata ~ ~1 ~ {Text1:"[\"\",{\"text\":\"Redneck_crazy04\",\"color\":\"red\"}]"}
-[16:19:56] [Server thread/INFO]: [glitchlord: Block data updated to: {x:-5,Text4:"{\"text\":\"\"}",y:92,Text3:"{\"text\":\"\"}",z:-14,Text2:"{\"extra\":[{\"color\":\"black\",\"text\":\"Overall Owner\"}],\"text\":\"\"}",id:"minecraft:sign",Text1:"[\"\",{\"text\":\"Redneck_crazy04\",\"color\":\"red\"}]"}]
-[16:20:10] [Server thread/INFO]: Redneck_Crazy04 issued server command: /gamemode 0
-[16:20:10] [Server thread/INFO]: [Redneck_Crazy04: Set own game mode to Survival Mode]
-[16:20:46] [Server thread/INFO]: Redneck_Crazy04 issued server command: /bal
-[16:22:01] [Async Chat Thread - #2/INFO]: [0;33;22m[Owner] [0;33;1m glitchlord : give glitchlord diamond_axe 1 0 {display:{Name:"Crystal Axe"},ench:[{id:32,lvl:50},{id:35,lvl:50}],HideFlags:5,Unbreakable:1}[m
-[16:22:11] [Server thread/INFO]: glitchlord issued server command: /give glitchlord diamond_axe 1 0 {display:{Name:"Crystal Axe"},ench:[{id:32,lvl:50},{id:35,lvl:50}],HideFlags:5,Unbreakable:1}
-[16:22:11] [Server thread/INFO]: [glitchlord: Given [Crystal Axe] * 1 to glitchlord]
-[16:22:19] [Server thread/INFO]: glitchlord issued server command: /cc
-[16:22:19] [Server thread/INFO]: [0;31;22m[21m[TO CONSOLE] [0;32;1m[21mChatManager [0;37;22m[21m>> [0;33;22m [21mglitchlord Has Cleared Global Chat![m
-[16:22:19] [Server thread/INFO]: [0;31;22m[21m[TO CONSOLE] [0;32;1m[21mChatManager [0;37;22m[21m>> [0;33;22m [21mglitchlord Has Cleared Global Chat![m
-[16:22:30] [Server thread/INFO]: Redneck_Crazy04 issued server command: /cc
-[16:22:30] [Server thread/INFO]: [0;31;22m[21m[TO CONSOLE] [0;32;1m[21mChatManager [0;37;22m[21m>> [0;33;22m [21mRedneck_Crazy04 Has Cleared Global Chat![m
-[16:22:30] [Server thread/INFO]: [0;31;22m[21m[TO CONSOLE] [0;32;1m[21mChatManager [0;37;22m[21m>> [0;33;22m [21mRedneck_Crazy04 Has Cleared Global Chat![m
-[16:22:54] [Server thread/INFO]: glitchlord issued server command: /is
-[16:22:54] [Server thread/INFO]: Title command successfully executed
-[16:23:15] [Server thread/INFO]: Redneck_Crazy04 issued server command: /gamemode 1
-[16:23:15] [Server thread/INFO]: [Redneck_Crazy04: Set own game mode to Creative Mode]
-[16:24:07] [Server thread/INFO]: glitchlord issued server command: /give @p diamond_pickaxe 1 0 {display:{Name:"Crystal Pick"},ench:[{id:32,lvl:50},{id:35,lvl:50}],HideFlags:5,Unbreakable:1}
-[16:24:07] [Server thread/INFO]: [glitchlord: Given [Crystal Pick] * 1 to glitchlord]
-[16:24:47] [Server thread/INFO]: Redneck_Crazy04 issued server command: /gamemode 0
-[16:24:47] [Server thread/INFO]: [Redneck_Crazy04: Set own game mode to Survival Mode]
-[16:24:50] [Server thread/INFO]: Redneck_Crazy04 has made the advancement [Stone Age]
-[16:25:29] [Server thread/INFO]: glitchlord issued server command: /gamemode 0
-[16:25:29] [Server thread/INFO]: [glitchlord: Set own game mode to Survival Mode]
-[16:26:10] [Server thread/INFO]: glitchlord issued server command: /goto survival
-[16:26:10] [Server thread/INFO]: Title command successfully executed
-[16:26:10] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22mglitchlord: Moved player glitchlord to world survival[m
-[16:26:17] [Server thread/INFO]: glitchlord issued server command: /gamemode 1
-[16:26:17] [Server thread/INFO]: [glitchlord: Set own game mode to Creative Mode]
-[16:26:29] [Server thread/INFO]: Redneck_Crazy04 issued server command: /spawn
-[16:26:36] [Server thread/INFO]: Redneck_Crazy04 issued server command: /weather clear
-[16:26:36] [Server thread/INFO]: [Redneck_Crazy04: Changing to clear weather]
-[16:26:53] [Server thread/INFO]: Redneck_Crazy04 issued server command: /gamemode 1
-[16:26:53] [Server thread/INFO]: [Redneck_Crazy04: Set own game mode to Creative Mode]
-[16:27:14] [Server thread/INFO]: glitchlord issued server command: /give Redneck_Crazy04 skull 1 3 {SkullOwner:redneck_crazy04}
-[16:27:14] [Server thread/INFO]: [glitchlord: Given [redneck_crazy04's Head] * 1 to Redneck_Crazy04]
-[16:27:34] [Server thread/INFO]: glitchlord issued server command: /jobs reload
-[16:27:34] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Buffered payment thread shutdown.[m
-[16:27:34] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Database save task shutdown![m
-[16:27:34] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 8 titles![m
-[16:27:34] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 0 restricted areas![m
-[16:27:34] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 49 protected blocks timers![m
-[16:27:35] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 641 custom item names![m
-[16:27:35] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 41 custom entity names![m
-[16:27:35] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 27 custom enchant names![m
-[16:27:35] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 16 custom color names![m
-[16:27:35] [Server thread/INFO]: [0;33;1m[Jobs] 4 shop items loaded![m
-[16:27:35] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 12 jobs![m
-[16:27:35] [Server thread/INFO]: [0;33;1m[Jobs] Explorer job manager registered![m
-[16:27:35] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Started database save task.[m
-[16:27:35] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Started buffered payment thread.[m
-[16:27:35] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 0 schedulers![m
-[16:27:48] [Server thread/INFO]: glitchlord issued server command: /jobs lb
-[16:27:50] [Server thread/INFO]: glitchlord issued server command: /jobs
-[16:28:23] [Server thread/INFO]: Redneck_Crazy04 issued server command: /gamemode 0
-[16:28:23] [Server thread/INFO]: [Redneck_Crazy04: Set own game mode to Survival Mode]
-[16:28:38] [Server thread/INFO]: Redneck_Crazy04 issued server command: /fly
-[16:29:30] [Server thread/INFO]: glitchlord issued server command: /manager
-[16:29:52] [Server thread/INFO]: Redneck_Crazy04 issued server command: /manager
-[16:30:47] [Server thread/INFO]: Redneck_Crazy04 issued server command: /manager
-[16:31:06] [Server thread/INFO]: glitchlord issued server command: /CLEAR
-[16:31:06] [Server thread/INFO]: [glitchlord: Cleared the inventory of glitchlord, removing 2 items]
-[16:31:22] [Server thread/INFO]: glitchlord issued server command: /CLEAR @a
-[16:31:22] [Server thread/INFO]: [glitchlord: Could not clear the inventory of glitchlord, no items to remove]
-[16:31:22] [Server thread/INFO]: [glitchlord: Cleared the inventory of Redneck_Crazy04, removing 503 items]
-[16:32:43] [Server thread/INFO]: Redneck_Crazy04 issued server command: /ban glitchlord
-[16:32:43] [Server thread/INFO]: glitchlord lost connection: You are banned from this server.
-[16:32:43] [Server thread/INFO]: glitchlord left the game
-[16:32:43] [Server thread/INFO]: [Redneck_Crazy04: Banned player glitchlord]
-[16:32:43] [Server thread/WARN]: handleDisconnection() called twice
-[16:33:54] [Server thread/INFO]: Could not ban player redneckcrazy04
-[16:34:00] [Server thread/INFO]: Unbanned player glitchlord
-[16:34:11] [Server thread/INFO]: Redneck_Crazy04 lost connection: You are banned from this server.
-[16:34:11] [Server thread/INFO]: Redneck_Crazy04 left the game
-[16:34:11] [Server thread/INFO]: Banned player redneck_crazy04
-[16:34:11] [Server thread/WARN]: handleDisconnection() called twice
-[16:34:11] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[16:34:45] [Server thread/INFO]: Unbanned player redneck_crazy04
-[16:34:56] [User Authenticator #4/INFO]: UUID of player Redneck_Crazy04 is c2c5d7bc-e639-48d6-98d7-8dd8269df55c
-[16:34:56] [Server thread/INFO]: Redneck_Crazy04[/192.168.1.27:50198] logged in with entity id 1180787 at ([world]-4.5, 94.0, -2.5)
-[16:44:10] [Craft Scheduler Thread - 58/INFO]: [MCManager] Starting Backup...
-[16:44:10] [Craft Scheduler Thread - 58/INFO]: [0;30;1mMCManager > [0;33;1m[21mSaving Data... Expect lag for a short while.[m
-[16:44:12] [Craft Scheduler Thread - 58/INFO]: [0;30;1mMCManager > [0;32;1m[21mBackup complete.[m
-[16:46:10] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[16:46:10] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:46:10] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
-[16:46:10] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
-[16:46:11] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[16:46:11] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader PermissionsEx v1.23.4
-[16:46:11] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[16:46:11] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[16:46:11] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:46:11] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[16:46:11] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[16:46:11] [Server thread/INFO]: [0;37;22m[[0;32;1mPlugMan[0;37;22m] [0;34;1mPermissionsEx has been reloaded.[m
-[16:46:15] [Async Chat Thread - #3/INFO]: [0;31;1m[[0;33;22mO[0;33;1mw[0;32;1mn[0;34;22me[0;36;1mr[0;35;1m][m [21m[4m[0;36;1m Redneck_Crazy04 : hi[m
-[16:46:54] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[16:46:54] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:46:54] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
-[16:46:54] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
-[16:46:56] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[16:46:56] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader PermissionsEx v1.23.4
-[16:46:56] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[16:46:56] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[16:46:56] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:46:56] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[16:46:56] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[16:46:56] [Server thread/INFO]: [0;37;22m[[0;32;1mPlugMan[0;37;22m] [0;34;1mPermissionsEx has been reloaded.[m
-[16:46:58] [Async Chat Thread - #3/INFO]: [0;31;1m[[0;33;22mO[0;33;1mw[0;32;1mn[0;34;22me[0;36;1mr[0;35;1m][m [21m[4m[0;36;1m Redneck_Crazy04 : hi[m
-[16:47:06] [Async Chat Thread - #3/INFO]: [0;31;1m[[0;33;22mO[0;33;1mw[0;32;1mn[0;34;22me[0;36;1mr[0;35;1m][m [21m[4m[0;36;1m Redneck_Crazy04 : kjglksjglkjsgljslgkjslkgjslkdjglskdjg[m
-[16:47:20] [Server thread/INFO]: Redneck_Crazy04 issued server command: /manager
-[16:48:08] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[16:48:08] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:48:08] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
-[16:48:08] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
-[16:48:09] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[16:48:09] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader PermissionsEx v1.23.4
-[16:48:09] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[16:48:09] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[16:48:09] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:48:09] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[16:48:09] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[16:48:09] [Server thread/INFO]: [0;37;22m[[0;32;1mPlugMan[0;37;22m] [0;34;1mPermissionsEx has been reloaded.[m
-[16:48:14] [Async Chat Thread - #4/INFO]: [0;31;1m[[0;33;22mO[0;33;1mw[0;32;1mn[0;34;22me[0;36;1mr[0;35;1m][m [21m[4m[0;36;1m Redneck_Crazy04 : ijdfg[m
-[16:48:31] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[16:48:31] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:48:31] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
-[16:48:31] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
-[16:48:32] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[16:48:32] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader PermissionsEx v1.23.4
-[16:48:32] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[16:48:32] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[16:48:32] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:48:32] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[16:48:32] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[16:48:32] [Server thread/INFO]: [0;37;22m[[0;32;1mPlugMan[0;37;22m] [0;34;1mPermissionsEx has been reloaded.[m
-[16:48:34] [Async Chat Thread - #4/INFO]: [0;31;1m[[0;33;22mO[0;33;1mw[0;32;1mn[0;34;22me[0;36;1mr[0;35;1m][m [21m[4m Redneck_Crazy04 : HO[m
-[16:49:05] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[16:49:05] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:49:05] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
-[16:49:05] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
-[16:49:05] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[16:49:05] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader PermissionsEx v1.23.4
-[16:49:05] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[16:49:05] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[16:49:05] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:49:05] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[16:49:05] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[16:49:05] [Server thread/INFO]: [0;37;22m[[0;32;1mPlugMan[0;37;22m] [0;34;1mPermissionsEx has been reloaded.[m
-[16:49:07] [Async Chat Thread - #4/INFO]: [0;31;1m[[0;33;22mO[0;33;1mw[0;32;1mn[0;34;22me[0;36;1mr[0;35;1m][m [0;36;22m[4m Redneck_Crazy04 : hjoi[m
-[16:49:37] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[16:49:37] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:49:37] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
-[16:49:37] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
-[16:49:38] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[16:49:38] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader PermissionsEx v1.23.4
-[16:49:38] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[16:49:38] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[16:49:38] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:49:38] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[16:49:38] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[16:49:38] [Server thread/INFO]: [0;37;22m[[0;32;1mPlugMan[0;37;22m] [0;34;1mPermissionsEx has been reloaded.[m
-[16:49:40] [Async Chat Thread - #4/INFO]: [0;31;1m[[0;33;22mO[0;33;1mw[0;32;1mn[0;34;22me[0;36;1mr[0;35;1m][m [0;36;22m[21m[4m Redneck_Crazy04 : hio[m
-[16:49:59] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[16:49:59] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:49:59] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
-[16:49:59] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
-[16:49:59] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[16:49:59] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader PermissionsEx v1.23.4
-[16:49:59] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[16:49:59] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[16:49:59] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:49:59] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[16:49:59] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[16:49:59] [Server thread/INFO]: [0;37;22m[[0;32;1mPlugMan[0;37;22m] [0;34;1mPermissionsEx has been reloaded.[m
-[16:55:49] [Server thread/INFO]: Stopping the server
-[16:55:49] [Server thread/INFO]: Stopping server
-[16:55:49] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[16:55:49] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:55:49] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
-[16:55:49] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
-[16:55:49] [Server thread/INFO]: [SignShopHotel] Disabling SignShopHotel v1.2.0
-[16:55:49] [Server thread/INFO]: [SignShopHotel] Disabled
-[16:55:49] [Server thread/INFO]: [SignShop] Disabling SignShop v2.11.2
-[16:55:49] [Server thread/INFO]: [SignShop] Successfully cancelled Async Storage task with ID: 18
-[16:55:49] [Server thread/INFO]: [SignShop] Disabled
-[16:55:49] [Server thread/INFO]: [Jobs] Disabling Jobs v4.2.1
-[16:55:49] [Server thread/INFO]: [0;33;1m[Jobs] Saved 37 new explorer entries.[m
-[16:55:49] [Server thread/INFO]: [0;33;1m[Jobs] Updated 26 explorer entries.[m
-[16:55:49] [Server thread/INFO]: [Jobs] Saving blocks
-[16:55:49] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Buffered payment thread shutdown.[m
-[16:55:49] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Database save task shutdown![m
-[16:55:49] [Server thread/INFO]: [0;33;1m[Jobs] [0;32;22mPlugin has been disabled succesfully.[m
-[16:55:49] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v15.4
-[16:55:49] [Server thread/INFO]: [DiscordSRV] Saved linked accounts in 18ms
-[16:55:49] [Server thread/INFO]: [DiscordSRV] Saved metrics in 13ms
-[16:55:49] [Server thread/INFO]: [DiscordSRV] Shutdown completed in 164ms
-[16:55:49] [Server thread/INFO]: [ASkyBlock] Disabling ASkyBlock v3.0.8.2
-[16:55:49] [Server thread/INFO]: [ASkyBlock] Saving offline messages...
-[16:55:49] [Server thread/INFO]: [ASkyBlock] Saving top ten list
-[16:55:49] [Server thread/INFO]: [ASkyBlock] Saved top ten list
-[16:55:49] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.8
-[16:55:49] [Server thread/INFO]: [MultiWorld] Disabled.
-[16:55:49] [Server thread/INFO]: [EnjinMinecraftPlugin] Disabling EnjinMinecraftPlugin v3.4.3
-[16:55:49] [Server thread/INFO]: [OreGenerator] Disabling OreGenerator v2.0
-[16:55:49] [Server thread/INFO]: [ChatManager] Disabling ChatManager v48.1.12
-[16:55:49] [Server thread/INFO]: [0;32;1m[21mChatManager [0;37;22m[21m>> [0;31;1mPlugin Has Been Disabled.[m
-[16:55:49] [Server thread/INFO]: [0;32;1m[21mChatManager [0;37;22m[21m>> [0;33;1mPlugin By:[0;33;22m A_Brave_Panda[m
-[16:55:49] [Server thread/WARN]: &6&l{name}, You must wait {time} more [seconds] to chat again.
-[16:55:49] [Server thread/INFO]: [Warps] Disabling Warps v8.2
-[16:55:49] [Server thread/INFO]: [Warps] Plugin has been Disabled!
-[16:55:49] [Server thread/INFO]: [Vault] Disabling Vault v1.6.1
-[16:55:49] [Server thread/INFO]: [NoMelt] Disabling NoMelt v1.0.0
-[16:55:49] [Server thread/INFO]: Disabled NoMelt
-[16:55:49] [Server thread/INFO]: [WorldSpawn] Disabling WorldSpawn v1.1
-[16:55:49] [Server thread/INFO]: [Gringotts] Disabling Gringotts v2.10-SNAPSHOT
-[16:55:49] [Server thread/INFO]: [Gringotts] disabled
-[16:55:49] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.1.4
-[16:55:49] [Server thread/INFO]: [MCManager] Disabling MCManager v3.0.1
-[16:55:49] [Server thread/INFO]: [Fly] Disabling Fly v1.1
-[16:55:49] [Server thread/INFO]: [Fly] Fly has been disabled
-[16:55:49] [Server thread/INFO]: [MinePacks] Disabling MinePacks v1.17.6
-[16:55:49] [Server thread/INFO]: [MinePacks] Checking for updates ...
-[16:55:49] [Server thread/INFO]: Minepacks-Connection-Pool - is closing down.
-[16:55:49] [Server thread/INFO]: [MinePacks] MinePacks has been disabled.
-[16:55:49] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
-[16:55:49] [Server thread/INFO]: [tpa] Disabling tpa v1.0
-[16:55:49] [Server thread/INFO]: [tpa] Successfully disabled version 1.0!
-[16:55:49] [Server thread/INFO]: Saving players
-[16:55:50] [Server thread/INFO]: Redneck_Crazy04 lost connection: Server closed
-[16:55:50] [Server thread/INFO]: Redneck_Crazy04 left the game
-[16:55:50] [Server thread/INFO]: Saving worlds
-[16:55:50] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[16:55:50] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
-[16:55:50] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
-[16:55:50] [Server thread/INFO]: Saving chunks for level 'survival'/overworld
-[16:55:50] [Server thread/INFO]: Saving chunks for level 'ASkyBlock'/overworld
-[16:55:50] [Server thread/INFO]: Saving chunks for level 'ASkyBlock_nether'/the_nether
+[17:00:50] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[17:00:50] [Server thread/INFO]: Loading properties
+[17:00:50] [Server thread/INFO]: Default game type: SURVIVAL
+[17:00:50] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-549c1fa-45c8386 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[17:00:50] [Server thread/INFO]: Debug logging is disabled
+[17:00:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:00:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:00:50] [Server thread/INFO]: Generating keypair
+[17:00:50] [Server thread/INFO]: Starting Minecraft server on redneckdomain:25565
+[17:00:50] [Server thread/INFO]: Using default channel type
+[17:00:51] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[17:00:51] [Server thread/ERROR]: ebean.properties not found
+[17:00:51] [Server thread/INFO]: DataSourcePool [Gringotts] autoCommit[false] transIsolation[SERIALIZABLE] min[2] max[20]
+[17:00:51] [Server thread/INFO]: SubClassFactory parent ClassLoader [org.bukkit.plugin.java.PluginClassLoader]
+[17:00:52] [Server thread/INFO]: Entities enhanced[0] subclassed[2]
+[17:00:52] [Server thread/INFO]: Reflections took 232 ms to scan 14 urls, producing 13 keys and 21 values 
+[17:00:52] [Server thread/INFO]: [tpa] Loading tpa v1.0
+[17:00:52] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[17:00:52] [Server thread/INFO]: [MinePacks] Loading MinePacks v1.17.6
+[17:00:52] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[17:00:52] [Server thread/INFO]: [Fly] Loading Fly v1.1
+[17:00:52] [Server thread/INFO]: [MCManager] Loading MCManager v3.0.1
+[17:00:52] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.4
+[17:00:52] [Server thread/INFO]: [Gringotts] Loading Gringotts v2.10-SNAPSHOT
+[17:00:52] [Server thread/INFO]: [WorldSpawn] Loading WorldSpawn v1.1
+[17:00:52] [Server thread/INFO]: [NoMelt] Loading NoMelt v1.0.0
+[17:00:52] [Server thread/INFO]: [Vault] Loading Vault v1.6.1
+[17:00:52] [Server thread/INFO]: [Warps] Loading Warps v8.2
+[17:00:52] [Server thread/INFO]: [ChatManager] Loading ChatManager v48.1.12
+[17:00:52] [Server thread/INFO]: [OreGenerator] Loading OreGenerator v2.0
+[17:00:52] [Server thread/INFO]: [InstantReset] Loading InstantReset v1.9-antony
+[17:00:52] [Server thread/INFO]: [EnjinMinecraftPlugin] Loading EnjinMinecraftPlugin v3.4.3
+[17:00:52] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.8
+[17:00:52] [Server thread/INFO]: [ASkyBlock] Loading ASkyBlock v3.0.8.2
+[17:00:52] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v15.4
+[17:00:52] [Server thread/INFO]: [Jobs] Loading Jobs v4.2.1
+[17:00:52] [Server thread/INFO]: [SignShop] Loading SignShop v2.11.2
+[17:00:52] [Server thread/INFO]: [SignShopHotel] Loading SignShopHotel v1.2.0
+[17:00:52] [Server thread/INFO]: [Gringotts] Enabling Gringotts v2.10-SNAPSHOT
+[17:00:52] [Server thread/INFO]: [Gringotts] Found Bukkit version: 1.12.2-R0.1-SNAPSHOT. All features enabled.
+[17:00:53] [Server thread/INFO]: [Gringotts] Unable to hook plugin Factions
+[17:00:53] [Server thread/WARN]: [Gringotts] Unable to load Factions handler because your version of Factions is not compatible with Gringotts. Factions support will not work
+[17:00:53] [Server thread/INFO]: [Gringotts] Unable to hook plugin Towny
+[17:00:53] [Server thread/WARN]: [Gringotts] Unable to load Towny handler. Towny support will not work
+[17:00:53] [Server thread/INFO]: [Gringotts] Plugin Vault hooked.
+[17:00:53] [Server thread/INFO]: [Gringotts] Unable to hook plugin WorldGuard
+[17:00:53] [Server thread/INFO]: [Gringotts] Registered Vault interface.
+[17:00:53] [Server thread/INFO]: [Vault] Enabling Vault v1.6.1
+[17:00:53] [Server thread/INFO]: [Vault][Economy] Gringotts hooked.
+[17:00:53] [Server thread/INFO]: [Vault] [Economy] Gringotts found: Loaded
+[17:00:53] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[17:00:53] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[17:00:53] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[17:00:53] [Server thread/INFO]: [Vault] Plugin enabled (63ms)
+[17:00:53] [Server thread/INFO]: [ASkyBlock] Enabling ASkyBlock v3.0.8.2
+[17:00:53] [Server thread/INFO]: [ASkyBlock] Loading entity limits
+[17:00:53] [Server thread/INFO]: [ASkyBlock] HOPPER will be limited to 30
+[17:00:53] [Server thread/INFO]: [ASkyBlock] Loaded default island schematic.
+[17:00:53] [Server thread/INFO]: [ASkyBlock] Loaded default nether schematic.
+[17:00:53] [Server thread/INFO]: [ASkyBlock] Loading schematic The Original (island.schematic) for all players, order 1
+[17:00:53] [Server thread/INFO]: [ASkyBlock] Loading schematic NetherBlock Island (nether.schematic) for all players, order 0
+[17:00:53] [Server thread/INFO]: [ASkyBlock] Loading schematic Island Duo (double.schematic) for all players, order 2
+[17:00:53] [Server thread/INFO]: [ASkyBlock] Loading schematic §lBlack §bDiamonds (harder.schematic) for all players, order 3
+[17:00:53] [Server thread/INFO]: [ASkyBlock] Loading offline messages...
+[17:00:53] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[17:00:53] [Server thread/INFO]: Preparing level "world"
+[17:00:53] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:00:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:00:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:00:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:00:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:00:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:00:53] [Server thread/INFO]: View Distance: 10
+[17:00:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:00:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:00:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:00:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:00:53] [Server thread/INFO]: Mob Spawn Range: 4
+[17:00:53] [Server thread/INFO]: Hopper Transfer: 32 Hopper Check: 1 Hopper Amount: 1
+[17:00:53] [Server thread/INFO]: Structure Info Saving: true
+[17:00:53] [Server thread/INFO]: Cactus Growth Modifier: 5000%
+[17:00:53] [Server thread/INFO]: Cane Growth Modifier: 8000%
+[17:00:53] [Server thread/INFO]: Melon Growth Modifier: 7000%
+[17:00:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:00:53] [Server thread/INFO]: Pumpkin Growth Modifier: 7000%
+[17:00:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:00:53] [Server thread/INFO]: Wheat Growth Modifier: 500%
+[17:00:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:00:53] [Server thread/INFO]: Vine Growth Modifier: 50%
+[17:00:53] [Server thread/INFO]: Cocoa Growth Modifier: 5000%
+[17:00:53] [Server thread/INFO]: Random Lighting Updates: false
+[17:00:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:00:53] [Server thread/INFO]: Max TNT Explosions: 100
+[17:00:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:00:54] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[17:00:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:00:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:00:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:00:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:00:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:00:54] [Server thread/INFO]: View Distance: 10
+[17:00:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:00:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:00:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:00:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:00:54] [Server thread/INFO]: Mob Spawn Range: 4
+[17:00:54] [Server thread/INFO]: Hopper Transfer: 32 Hopper Check: 1 Hopper Amount: 1
+[17:00:54] [Server thread/INFO]: Structure Info Saving: true
+[17:00:54] [Server thread/INFO]: Cactus Growth Modifier: 5000%
+[17:00:54] [Server thread/INFO]: Cane Growth Modifier: 8000%
+[17:00:54] [Server thread/INFO]: Melon Growth Modifier: 7000%
+[17:00:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:00:54] [Server thread/INFO]: Pumpkin Growth Modifier: 7000%
+[17:00:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:00:54] [Server thread/INFO]: Wheat Growth Modifier: 500%
+[17:00:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:00:54] [Server thread/INFO]: Vine Growth Modifier: 50%
+[17:00:54] [Server thread/INFO]: Cocoa Growth Modifier: 5000%
+[17:00:54] [Server thread/INFO]: Random Lighting Updates: false
+[17:00:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:00:54] [Server thread/INFO]: Max TNT Explosions: 100
+[17:00:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:00:54] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[17:00:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:00:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:00:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:00:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:00:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:00:54] [Server thread/INFO]: View Distance: 10
+[17:00:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:00:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:00:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:00:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:00:54] [Server thread/INFO]: Mob Spawn Range: 4
+[17:00:54] [Server thread/INFO]: Hopper Transfer: 32 Hopper Check: 1 Hopper Amount: 1
+[17:00:54] [Server thread/INFO]: Structure Info Saving: true
+[17:00:54] [Server thread/INFO]: Cactus Growth Modifier: 5000%
+[17:00:54] [Server thread/INFO]: Cane Growth Modifier: 8000%
+[17:00:54] [Server thread/INFO]: Melon Growth Modifier: 7000%
+[17:00:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:00:54] [Server thread/INFO]: Pumpkin Growth Modifier: 7000%
+[17:00:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:00:54] [Server thread/INFO]: Wheat Growth Modifier: 500%
+[17:00:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:00:54] [Server thread/INFO]: Vine Growth Modifier: 50%
+[17:00:54] [Server thread/INFO]: Cocoa Growth Modifier: 5000%
+[17:00:54] [Server thread/INFO]: Random Lighting Updates: false
+[17:00:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:00:54] [Server thread/INFO]: Max TNT Explosions: 100
+[17:00:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:00:54] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3284846687822348625)
+[17:00:55] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3497403547101501287)
+[17:00:56] [Server thread/INFO]: Preparing spawn area: 83%
+[17:00:56] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3497403547101501287)
+[17:00:56] [Server thread/INFO]: [tpa] Enabling tpa v1.0
+[17:00:56] [Server thread/INFO]: [tpa] Successfully enabled version 1.0!
+[17:00:56] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[17:00:56] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:00:57] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[17:00:57] [Server thread/INFO]: [MinePacks] Enabling MinePacks v1.17.6
+[17:00:57] [Server thread/INFO]: [MinePacks] Configuration Version: 15 => Configuration outdated! Upgrading ...
+[17:00:57] [Server thread/INFO]: [MinePacks] No config found. Create new one ...
+[17:00:57] [Server thread/INFO]: [MinePacks] Configuration extracted successfully!
+[17:00:57] [Server thread/INFO]: [MinePacks] Configuration has been updated.
+[17:00:57] [Server thread/INFO]: Minepacks-Connection-Pool - is starting.
+[17:00:57] [Server thread/INFO]: [MinePacks] Checking for updates ...
+[17:00:57] [Server thread/INFO]: [MinePacks] MinePacks has been enabled!
+[17:00:57] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[17:00:57] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[17:00:57] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[17:00:57] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[17:00:57] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[17:00:57] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[17:00:57] [Server thread/INFO]: [Fly] Enabling Fly v1.1
+[17:00:57] [Server thread/INFO]: [Fly] Fly has been enabled!
+[17:00:57] [Server thread/INFO]: [MCManager] Enabling MCManager v3.0.1
+[17:00:57] [Server thread/WARN]: [MCManager] Dependency ProtocolLib not found. Please install it to use all functions.
+[17:00:57] [Server thread/INFO]: [MCManager] Everything is working fine. Enabling API now.
+[17:00:57] [Server thread/INFO]: [Translator] Loaded language 'English(United States)' into cache for Plugin 'MCManager'
+[17:00:57] [Server thread/INFO]: [MCManager] Loaded en_US as the default language.
+[17:00:57] [Server thread/INFO]: [MCManager] Starting automated backup...
+[17:00:57] [Server thread/INFO]: [MCManager] Automatic Backup is currently set to 30 minutes. You can change this in the config.
+[17:00:57] [Server thread/INFO]: [MCManager] Starting WebServer on port 8,282 ...
+[17:00:57] [Server thread/INFO]: [MCManager] Checking for Plugin Updates...
+[17:00:57] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.1.4
+[17:00:57] [Server thread/INFO]: [WorldSpawn] Enabling WorldSpawn v1.1
+[17:00:57] [Server thread/INFO]: [WorldSpawn] Hello server!
+[17:00:57] [Server thread/INFO]: [WorldSpawn] World Spawn by Bluecoaster455 v1.1
+[17:00:57] [Server thread/INFO]: [NoMelt] Enabling NoMelt v1.0.0
+[17:00:57] [Server thread/INFO]: [NoMelt] Enabled
+[17:00:57] [Server thread/INFO]: [NoMelt] - Melting is disabled.
+[17:00:57] [Server thread/INFO]: [NoMelt] - Ice will drop
+[17:00:57] [Server thread/INFO]: [NoMelt] - Freezing is Disabled.
+[17:00:57] [Server thread/INFO]: [NoMelt] - Ice will NOT turn to water upon breaking.
+[17:00:57] [Server thread/INFO]: [Warps] Enabling Warps v8.2
+[17:00:57] [Server thread/INFO]: [Warps] Plugin has been activated!
+[17:00:57] [Server thread/INFO]: [ChatManager] Enabling ChatManager v48.1.12
+[17:00:57] [Server thread/INFO]: [0;32;1m[21mChatManager [0;37;22m[21m>> [0;32;1mPlugin Has Been Enabled.[m
+[17:00:57] [Server thread/INFO]: [0;32;1m[21mChatManager [0;37;22m[21m>> [0;33;1mPlugin By:[0;33;22m A_Brave_Panda[m
+[17:00:57] [Server thread/INFO]: [0;32;1m[21mChatManager [0;37;22m[21m>> [0;32;1mPermissionsEx Enabled[m
+[17:00:57] [Server thread/INFO]: [OreGenerator] Enabling OreGenerator v2.0
+[17:00:57] [Server thread/INFO]: [InstantReset] Enabling InstantReset v1.9-antony
+[17:00:57] [Server thread/ERROR]: [InstantReset] Unsupported server version: git-Spigot-549c1fa-45c8386 (MC: 1.12.2)
+[17:00:57] [Server thread/INFO]: [InstantReset] Disabling InstantReset v1.9-antony
+[17:00:57] [Server thread/INFO]: [EnjinMinecraftPlugin] Enabling EnjinMinecraftPlugin v3.4.3
+[17:00:57] [Server thread/INFO]: Initializing for the first time.
+[17:00:57] [Server thread/INFO]: Log4j 2 handler detected: com.enjin.common.compatibility.CurrentLog4j2Handler
+[17:00:58] [Server thread/INFO]: Reflections took 58 ms to scan 1 urls, producing 2 keys and 10 values 
+[17:00:58] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.8
+[17:00:58] [Server thread/INFO]: -------- World Settings For [survival] --------
+[17:00:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:00:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:00:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:00:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:00:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:00:58] [Server thread/INFO]: View Distance: 10
+[17:00:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:00:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:00:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:00:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:00:58] [Server thread/INFO]: Mob Spawn Range: 4
+[17:00:58] [Server thread/INFO]: Hopper Transfer: 32 Hopper Check: 1 Hopper Amount: 1
+[17:00:58] [Server thread/INFO]: Structure Info Saving: true
+[17:00:58] [Server thread/INFO]: Cactus Growth Modifier: 5000%
+[17:00:58] [Server thread/INFO]: Cane Growth Modifier: 8000%
+[17:00:58] [Server thread/INFO]: Melon Growth Modifier: 7000%
+[17:00:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:00:58] [Server thread/INFO]: Pumpkin Growth Modifier: 7000%
+[17:00:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:00:58] [Server thread/INFO]: Wheat Growth Modifier: 500%
+[17:00:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:00:58] [Server thread/INFO]: Vine Growth Modifier: 50%
+[17:00:58] [Server thread/INFO]: Cocoa Growth Modifier: 5000%
+[17:00:58] [Server thread/INFO]: Random Lighting Updates: false
+[17:00:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:00:58] [Server thread/INFO]: Max TNT Explosions: 100
+[17:00:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:00:58] [Server thread/INFO]: Preparing start region for level 3 (Seed: 6741938721861968436)
+[17:00:58] [Server thread/INFO]: [MultiWorld] [PortalHandler] loaded!
+[17:00:58] [Server thread/INFO]: [MultiWorld] [PortalHandler] loaded!
+[17:00:58] [Server thread/INFO]: [MultiWorld] v5.2.8 enabled.
+[17:00:58] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v15.4
+[17:00:58] [Server thread/INFO]: [Jobs] Enabling Jobs v4.2.1
+[17:00:59] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 8 titles![m
+[17:00:59] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 0 restricted areas![m
+[17:00:59] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 49 protected blocks timers![m
+[17:00:59] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 641 custom item names![m
+[17:00:59] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 41 custom entity names![m
+[17:00:59] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 27 custom enchant names![m
+[17:00:59] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 16 custom color names![m
+[17:00:59] [Server thread/INFO]: [0;33;1m[Jobs] 4 shop items loaded![m
+[17:00:59] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 12 jobs![m
+[17:00:59] [Server thread/INFO]: [0;33;1m[Jobs] Explorer job manager registered![m
+[17:00:59] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Started database save task.[m
+[17:00:59] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Started buffered payment thread.[m
+[17:00:59] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 0 schedulers![m
+[17:00:59] [Server thread/INFO]: [0;33;1m[Jobs] Preloaded 2 players data in 0.01[m
+[17:00:59] [Server thread/INFO]: [0;33;1m[Jobs] Loading explorer data[m
+[17:00:59] [Server thread/INFO]: [0;33;1m[Jobs] Loaded explorer data (161)[m
+[17:00:59] [Server thread/INFO]: [0;33;1m[Jobs] Plugin has been enabled succesfully.[m
+[17:00:59] [Server thread/INFO]: [SignShop] Enabling SignShop v2.11.2
+[17:00:59] [Server thread/INFO]: [SignShop] Succesfully started Metrics, see http://mcstats.org for more information.
+[17:01:00] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (de213ef335b25df6d667b19e7d339cd5b6f4d0bc)
+[17:01:00] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-14, 128, 193).
+[17:01:00] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-17, 124, 183).
+[17:01:00] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-10, 127, 193).
+[17:01:01] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Language initialized as English
+[17:01:01] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Thank you so much to these people for allowing DiscordSRV to grow to what it is: Ac3dUd3, Androkai, anton8604, buildblox, Bysokar, CoreyD97, DeeKay, Diamondman121314/DMAN, FataL, Foxy, geekhideout, Helmic, KaizenWorlds, LDSG Ghost, Mick, Mitecraft, Rui, Ryan (The Loyal One), Sicnus
+[17:01:01] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-17, 124, 185).
+[17:01:01] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-14, 128, 195).
+[17:01:01] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-9, 126, 193).
+[17:01:01] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-6, 127, 193).
+[17:01:01] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-12, 127, 193).
+[17:01:01] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-11, 126, 193).
+[17:01:01] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-17, 124, 187).
+[17:01:01] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-8, 127, 193).
+[17:01:01] [Server thread/INFO]: [SignShop] Removed an invalid Shop! It should be in 'ASkyBlock' at (-7, 126, 193).
+[17:01:01] [Server thread/INFO]: [SignShop] v2.11.2 Enabled
+[17:01:01] [Server thread/INFO]: [SignShopHotel] Enabling SignShopHotel v1.2.0
+[17:01:01] [Server thread/INFO]: [SignShopHotel] Succesfully started Metrics, see http://mcstats.org for more information.
+[17:01:01] [Server thread/INFO]: [SignShopHotel] Enabled
+[17:01:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:01:01] [Server thread/INFO]: Done (8.001s)! For help, type "help" or "?"
+[17:01:01] [Server thread/INFO]: -------- World Settings For [ASkyBlock] --------
+[17:01:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:01:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:01:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:01:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:01:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:01:01] [Server thread/INFO]: View Distance: 10
+[17:01:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:01:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:01:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:01:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:01:01] [Server thread/INFO]: Mob Spawn Range: 4
+[17:01:01] [Server thread/INFO]: Hopper Transfer: 32 Hopper Check: 1 Hopper Amount: 1
+[17:01:01] [Server thread/INFO]: Structure Info Saving: true
+[17:01:01] [Server thread/INFO]: Cactus Growth Modifier: 5000%
+[17:01:01] [Server thread/INFO]: Cane Growth Modifier: 8000%
+[17:01:01] [Server thread/INFO]: Melon Growth Modifier: 7000%
+[17:01:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:01:01] [Server thread/INFO]: Pumpkin Growth Modifier: 7000%
+[17:01:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:01:01] [Server thread/INFO]: Wheat Growth Modifier: 500%
+[17:01:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:01:01] [Server thread/INFO]: Vine Growth Modifier: 50%
+[17:01:01] [Server thread/INFO]: Cocoa Growth Modifier: 5000%
+[17:01:01] [Server thread/INFO]: Random Lighting Updates: false
+[17:01:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:01:01] [Server thread/INFO]: Max TNT Explosions: 100
+[17:01:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:01:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[17:01:02] [Server thread/INFO]: Preparing start region for level 4 (Seed: -6996419123731146911)
+[17:01:02] [Server thread/INFO]: [SignShop] Loading shops for world: ASkyBlock
+[17:01:02] [Server thread/INFO]: Creating ASkyBlock's Nether...
+[17:01:02] [Server thread/INFO]: -------- World Settings For [ASkyBlock_nether] --------
+[17:01:02] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:01:02] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:01:02] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:01:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:01:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:01:02] [Server thread/INFO]: View Distance: 10
+[17:01:02] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:01:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:01:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:01:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:01:02] [Server thread/INFO]: Mob Spawn Range: 4
+[17:01:02] [Server thread/INFO]: Hopper Transfer: 32 Hopper Check: 1 Hopper Amount: 1
+[17:01:02] [Server thread/INFO]: Structure Info Saving: true
+[17:01:02] [Server thread/INFO]: Cactus Growth Modifier: 5000%
+[17:01:02] [Server thread/INFO]: Cane Growth Modifier: 8000%
+[17:01:02] [Server thread/INFO]: Melon Growth Modifier: 7000%
+[17:01:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:01:02] [Server thread/INFO]: Pumpkin Growth Modifier: 7000%
+[17:01:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:01:02] [Server thread/INFO]: Wheat Growth Modifier: 500%
+[17:01:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:01:02] [Server thread/INFO]: Vine Growth Modifier: 50%
+[17:01:02] [Server thread/INFO]: Cocoa Growth Modifier: 5000%
+[17:01:02] [Server thread/INFO]: Random Lighting Updates: false
+[17:01:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:01:02] [Server thread/INFO]: Max TNT Explosions: 100
+[17:01:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:01:02] [Craft Scheduler Thread - 1/INFO]: [Vault] You are running the latest version
+[17:01:02] [Server thread/INFO]: Preparing start region for level 5 (Seed: -5017571359908632679)
+[17:01:02] [Server thread/INFO]: [ASkyBlock] Silencing command feedback for Ops...
+[17:01:02] [Server thread/INFO]: Game rule sendCommandFeedback has been updated to false
+[17:01:02] [Server thread/INFO]: [ASkyBlock] If you do not want this, do /gamerule sendCommandFeedback true
+[17:01:02] [Server thread/INFO]: [ASkyBlock] Checking for new updates...
+[17:01:02] [Server thread/INFO]: [0;33;1m[Jobs] Successfully linked with Vault.[m
+[17:01:02] [Server thread/INFO]: [ASkyBlock] Loading island grid...
+[17:01:02] [Server thread/INFO]: [ASkyBlock] Loading islands.yml
+[17:01:02] [JDA MainWS-WriteThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[17:01:02] [Server thread/INFO]: [ASkyBlock] Loading warps...
+[17:01:02] [Server thread/INFO]: [ASkyBlock] All files loaded. Ready to play...
+[17:01:02] [Server thread/INFO]: [ASkyBlock] Metrics loaded.
+[17:01:02] [Craft Scheduler Thread - 2/INFO]: [PlugMan] No update was found.
+[17:01:02] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[17:01:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Mine Warriors(393931041523630083)
+[17:01:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general(394357964095619093)
+[17:01:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:help(394358125425197056)
+[17:01:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:skyblock(394358074443431938)
+[17:01:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:server(394961839924183051)
+[17:01:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:console(394979248223289354)
+[17:01:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel TC:console(394979248223289354)
+[17:01:02] [DiscordSRV - Initialization/INFO]: [DiscordSRV] No chat plugin hooks enabled
+[17:01:03] [Server thread/INFO]: [ASkyBlock] No update available.
+[17:01:20] [User Authenticator #1/INFO]: UUID of player Redneck_Crazy04 is c2c5d7bc-e639-48d6-98d7-8dd8269df55c
+[17:01:21] [Server thread/INFO]: Redneck_Crazy04[/192.168.1.27:50407] logged in with entity id 10 at ([world]-4.5, 94.0, -2.5)
+[17:01:32] [Server thread/INFO]: Redneck_Crazy04 lost connection: Disconnected
+[17:01:32] [Server thread/INFO]: Redneck_Crazy04 left the game
+[17:02:12] [User Authenticator #2/INFO]: UUID of player Redneck_Crazy04 is c2c5d7bc-e639-48d6-98d7-8dd8269df55c
+[17:02:12] [Server thread/INFO]: Redneck_Crazy04[/192.168.1.27:50424] logged in with entity id 5559 at ([world]-4.5, 94.0, -2.5)
+[17:02:39] [Server thread/INFO]: Redneck_Crazy04 issued server command: /GAMEMODE 1
+[17:02:39] [Server thread/INFO]: [Redneck_Crazy04: Set own game mode to Creative Mode]
+[17:03:11] [User Authenticator #3/INFO]: UUID of player glitchlord is 8a72ddfa-db77-4f1a-ab25-c3e9eafa4403
+[17:03:11] [Server thread/WARN]: [DiscordSRV] Could not set nickname for MB:moe(U:moe(394273339327119360) / G:Mine Warriors(393931041523630083)) because the bot does not have the "Manage Nicknames" permission
+[17:03:11] [Server thread/INFO]: glitchlord[/192.168.1.16:56115] logged in with entity id 31203 at ([world]-4.5, 94.0, -2.5)
+[17:04:01] [Server thread/INFO]: glitchlord issued server command: /kill @e[!Player]
+[17:04:26] [Server thread/INFO]: glitchlord issued server command: /fly
+[17:04:50] [Server thread/INFO]: glitchlord issued server command: /effect @p speed 10 100
+[17:04:50] [Server thread/INFO]: [glitchlord: Given Speed (ID 1) * 100 to glitchlord for 10 seconds]
+[17:04:59] [Server thread/INFO]: glitchlord issued server command: /hub
+[17:05:07] [Server thread/INFO]: glitchlord issued server command: /hub
+[17:05:21] [Server thread/INFO]: Redneck_Crazy04 issued server command: /SPAWN
+[17:05:27] [Server thread/INFO]: glitchlord issued server command: /hub
+[17:05:49] [Server thread/INFO]: glitchlord issued server command: /effect @p speed 10 100
+[17:05:49] [Server thread/INFO]: [glitchlord: Given Speed (ID 1) * 100 to glitchlord for 10 seconds]
+[17:05:55] [Server thread/INFO]: Redneck_Crazy04 issued server command: /SPAWN
+[17:06:01] [Server thread/INFO]: glitchlord issued server command: /hub
+[17:06:07] [Server thread/INFO]: glitchlord issued server command: /effect @p speed 10 100
+[17:06:07] [Server thread/INFO]: [glitchlord: Given Speed (ID 1) * 100 to glitchlord for 10 seconds]
+[17:06:17] [Server thread/INFO]: glitchlord issued server command: /hub
+[17:06:23] [Server thread/INFO]: glitchlord issued server command: /effect @p speed 10 100
+[17:06:23] [Server thread/INFO]: [glitchlord: Given Speed (ID 1) * 100 to glitchlord for 10 seconds]
+[17:06:58] [Server thread/INFO]: glitchlord issued server command: /effect @p speed 5 100
+[17:06:58] [Server thread/INFO]: [glitchlord: Given Speed (ID 1) * 100 to glitchlord for 5 seconds]
+[17:07:18] [Server thread/INFO]: glitchlord issued server command: //wand
+[17:07:27] [Server thread/INFO]: Redneck_Crazy04 issued server command: /tp glitchlord
+[17:07:27] [Server thread/INFO]: [Redneck_Crazy04: Teleported Redneck_Crazy04 to glitchlord]
+[17:08:56] [Async Chat Thread - #0/INFO]: [0;31;1m[[0;33;22mO[0;33;1mw[0;32;1mn[0;34;22me[0;36;1mr[0;35;1m][m [0;36;22m[21m[4m Redneck_Crazy04 : hi[m
+[17:09:15] [Server thread/INFO]: Redneck_Crazy04 issued server command: /gamemoe 0
+[17:09:22] [Server thread/INFO]: Redneck_Crazy04 issued server command: /gamemode 0
+[17:09:22] [Server thread/INFO]: [Redneck_Crazy04: Set own game mode to Survival Mode]
+[17:09:26] [Server thread/INFO]: Redneck_Crazy04 issued server command: /gamemode 0
+[17:09:26] [Server thread/INFO]: [Redneck_Crazy04: Set own game mode to Survival Mode]
+[17:09:57] [Server thread/INFO]: glitchlord issued server command: /pex group
+[17:09:57] [Server thread/WARN]: [PermissionsEx] User glitchlord tried to access chat command "pex group", but doesn't have permission to do this.
+[17:10:16] [Server thread/INFO]: Redneck_Crazy04 issued server command: /gamemode 1
+[17:10:16] [Server thread/INFO]: [Redneck_Crazy04: Set own game mode to Creative Mode]
+[17:11:32] [Server thread/INFO]: De-opped redneck_crazy04
+[17:12:01] [Server thread/INFO]: Opped redneck_crazy04
+[17:13:30] [Server thread/INFO]: glitchlord issued server command: /manager
+[17:14:52] [Server thread/INFO]: Redneck_Crazy04 issued server command: /tp glitchlord
+[17:14:52] [Server thread/INFO]: [Redneck_Crazy04: Teleported Redneck_Crazy04 to glitchlord]
+[17:17:32] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[17:17:32] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[17:17:32] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
+[17:17:32] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
+[17:17:33] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[17:17:33] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader PermissionsEx v1.23.4
+[17:17:33] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[17:17:34] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[17:17:34] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[17:17:34] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[17:17:34] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[17:17:34] [Server thread/INFO]: [0;37;22m[[0;32;1mPlugMan[0;37;22m] [0;34;1mPermissionsEx has been reloaded.[m
+[17:18:06] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[17:18:15] [Server thread/INFO]: De-opped redneck_crazy04
+[17:18:50] [Server thread/INFO]: Redneck_Crazy04 issued server command: /tp glitchlord
+[17:18:50] [Server thread/INFO]: [Redneck_Crazy04: Teleported Redneck_Crazy04 to glitchlord]
+[17:20:10] [Server thread/WARN]: [DiscordSRV] Task #81 for DiscordSRV v15.4 generated an exception
+org.bukkit.command.CommandException: Unhandled exception executing command 'pex' in plugin PermissionsEx v1.23.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:649) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at github.scarsz.discordsrv.listeners.DiscordConsoleListener.lambda$onGuildMessageReceived$0(DiscordConsoleListener.java:93) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+Caused by: java.lang.IllegalAccessError: tried to access method ru.tehkode.permissions.bukkit.ErrorReport$Builder.<init>(Ljava/lang/String;Ljava/lang/Throwable;Lru/tehkode/permissions/bukkit/ErrorReport$1;)V from class ru.tehkode.permissions.bukkit.ErrorReport
+	at ru.tehkode.permissions.bukkit.ErrorReport.builder(ErrorReport.java:334) ~[?:?]
+	at ru.tehkode.permissions.bukkit.ErrorReport.withException(ErrorReport.java:217) ~[?:?]
+	at ru.tehkode.permissions.bukkit.ErrorReport.handleError(ErrorReport.java:202) ~[?:?]
+	at ru.tehkode.permissions.bukkit.PermissionsEx.onCommand(PermissionsEx.java:328) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	... 10 more
+[17:20:39] [Server thread/WARN]: [DiscordSRV] Task #82 for DiscordSRV v15.4 generated an exception
+org.bukkit.command.CommandException: Unhandled exception executing command 'pex' in plugin PermissionsEx v1.23.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:649) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at github.scarsz.discordsrv.listeners.DiscordConsoleListener.lambda$onGuildMessageReceived$0(DiscordConsoleListener.java:93) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+Caused by: java.lang.IllegalAccessError: tried to access method ru.tehkode.permissions.bukkit.ErrorReport$Builder.<init>(Ljava/lang/String;Ljava/lang/Throwable;Lru/tehkode/permissions/bukkit/ErrorReport$1;)V from class ru.tehkode.permissions.bukkit.ErrorReport
+	at ru.tehkode.permissions.bukkit.ErrorReport.builder(ErrorReport.java:334) ~[?:?]
+	at ru.tehkode.permissions.bukkit.ErrorReport.withException(ErrorReport.java:217) ~[?:?]
+	at ru.tehkode.permissions.bukkit.ErrorReport.handleError(ErrorReport.java:202) ~[?:?]
+	at ru.tehkode.permissions.bukkit.PermissionsEx.onCommand(PermissionsEx.java:328) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	... 10 more
+[17:20:48] [Server thread/WARN]: [DiscordSRV] Task #83 for DiscordSRV v15.4 generated an exception
+org.bukkit.command.CommandException: Unhandled exception executing command 'pex' in plugin PermissionsEx v1.23.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:649) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at github.scarsz.discordsrv.listeners.DiscordConsoleListener.lambda$onGuildMessageReceived$0(DiscordConsoleListener.java:93) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+Caused by: java.lang.IllegalAccessError: tried to access method ru.tehkode.permissions.bukkit.ErrorReport$Builder.<init>(Ljava/lang/String;Ljava/lang/Throwable;Lru/tehkode/permissions/bukkit/ErrorReport$1;)V from class ru.tehkode.permissions.bukkit.ErrorReport
+	at ru.tehkode.permissions.bukkit.ErrorReport.builder(ErrorReport.java:334) ~[?:?]
+	at ru.tehkode.permissions.bukkit.ErrorReport.withException(ErrorReport.java:217) ~[?:?]
+	at ru.tehkode.permissions.bukkit.ErrorReport.handleError(ErrorReport.java:202) ~[?:?]
+	at ru.tehkode.permissions.bukkit.PermissionsEx.onCommand(PermissionsEx.java:328) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	... 10 more
+[17:21:15] [Server thread/WARN]: [DiscordSRV] Task #87 for DiscordSRV v15.4 generated an exception
+org.bukkit.command.CommandException: Unhandled exception executing command 'pex' in plugin PermissionsEx v1.23.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:649) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at github.scarsz.discordsrv.listeners.DiscordConsoleListener.lambda$onGuildMessageReceived$0(DiscordConsoleListener.java:93) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+Caused by: java.lang.IllegalAccessError: tried to access method ru.tehkode.permissions.bukkit.ErrorReport$Builder.<init>(Ljava/lang/String;Ljava/lang/Throwable;Lru/tehkode/permissions/bukkit/ErrorReport$1;)V from class ru.tehkode.permissions.bukkit.ErrorReport
+	at ru.tehkode.permissions.bukkit.ErrorReport.builder(ErrorReport.java:334) ~[?:?]
+	at ru.tehkode.permissions.bukkit.ErrorReport.withException(ErrorReport.java:217) ~[?:?]
+	at ru.tehkode.permissions.bukkit.ErrorReport.handleError(ErrorReport.java:202) ~[?:?]
+	at ru.tehkode.permissions.bukkit.PermissionsEx.onCommand(PermissionsEx.java:328) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	... 10 more
+[17:21:37] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[17:21:37] [Server thread/WARN]: [DiscordSRV] Task #88 for DiscordSRV v15.4 generated an exception
+org.bukkit.command.CommandException: Unhandled exception executing command 'pex' in plugin PermissionsEx v1.23.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:649) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at github.scarsz.discordsrv.listeners.DiscordConsoleListener.lambda$onGuildMessageReceived$0(DiscordConsoleListener.java:93) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+Caused by: java.lang.IllegalAccessError: tried to access method ru.tehkode.permissions.bukkit.ErrorReport$Builder.<init>(Ljava/lang/String;Ljava/lang/Throwable;Lru/tehkode/permissions/bukkit/ErrorReport$1;)V from class ru.tehkode.permissions.bukkit.ErrorReport
+	at ru.tehkode.permissions.bukkit.ErrorReport.builder(ErrorReport.java:334) ~[?:?]
+	at ru.tehkode.permissions.bukkit.ErrorReport.withException(ErrorReport.java:217) ~[?:?]
+	at ru.tehkode.permissions.bukkit.ErrorReport.handleError(ErrorReport.java:202) ~[?:?]
+	at ru.tehkode.permissions.bukkit.PermissionsEx.onCommand(PermissionsEx.java:328) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	... 10 more
+[17:21:48] [Server thread/INFO]: Opped redneck_crazy04
+[17:22:03] [Server thread/WARN]: [DiscordSRV] Task #89 for DiscordSRV v15.4 generated an exception
+org.bukkit.command.CommandException: Unhandled exception executing command 'pex' in plugin PermissionsEx v1.23.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:649) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at github.scarsz.discordsrv.listeners.DiscordConsoleListener.lambda$onGuildMessageReceived$0(DiscordConsoleListener.java:93) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+Caused by: java.lang.IllegalAccessError: tried to access method ru.tehkode.permissions.bukkit.ErrorReport$Builder.<init>(Ljava/lang/String;Ljava/lang/Throwable;Lru/tehkode/permissions/bukkit/ErrorReport$1;)V from class ru.tehkode.permissions.bukkit.ErrorReport
+	at ru.tehkode.permissions.bukkit.ErrorReport.builder(ErrorReport.java:334) ~[?:?]
+	at ru.tehkode.permissions.bukkit.ErrorReport.withException(ErrorReport.java:217) ~[?:?]
+	at ru.tehkode.permissions.bukkit.ErrorReport.handleError(ErrorReport.java:202) ~[?:?]
+	at ru.tehkode.permissions.bukkit.PermissionsEx.onCommand(PermissionsEx.java:328) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.12.2.jar:git-Spigot-549c1fa-45c8386]
+	... 10 more
+[17:24:04] [Server thread/INFO]: Redneck_Crazy04 issued server command: /tp glitchlord
+[17:24:04] [Server thread/INFO]: [Redneck_Crazy04: Teleported Redneck_Crazy04 to glitchlord]
+[17:24:55] [Server thread/INFO]: glitchlord issued server command: /clear @a
+[17:24:55] [Server thread/INFO]: [glitchlord: Cleared the inventory of glitchlord, removing 24 items]
+[17:24:55] [Server thread/INFO]: [glitchlord: Cleared the inventory of Redneck_Crazy04, removing 87 items]
+[17:28:13] [Server thread/INFO]: glitchlord issued server command: //wand
+[17:28:28] [Server thread/INFO]: glitchlord issued server command: //replace air glass
+[17:28:41] [Server thread/INFO]: glitchlord issued server command: //replace air
+[17:31:06] [Craft Scheduler Thread - 25/INFO]: [MCManager] Starting Backup...
+[17:31:06] [Craft Scheduler Thread - 25/INFO]: [0;30;1mMCManager > [0;33;1m[21mSaving Data... Expect lag for a short while.[m
+[17:31:06] [Craft Scheduler Thread - 25/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[17:31:09] [Craft Scheduler Thread - 25/INFO]: [0;30;1mMCManager > [0;32;1m[21mBackup complete.[m

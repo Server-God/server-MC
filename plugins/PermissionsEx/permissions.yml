@@ -5,7 +5,7 @@ groups:
       default: true
     permissions:
     - backpack
-    - cmd.fly.use 
+    - cmd.fly.use
     - tpa.tpa
     - tpa.tpaccept
     - tpa.deny
@@ -64,13 +64,12 @@ groups:
     permissions:
     - bukkit.*
     - minecraft.*
-    - mcm.* 
+    - mcm.*
     - askyblock.mod.*
     - jobs.*
     - bb.admin
     - bb.use
     - multiworld.command.*
-    - Signshop.SuperAdmin
   Owner:
     options:
       prefix: '&6[Owner] &e'
@@ -78,7 +77,6 @@ groups:
     - Moderator
     permissions:
     - askyblock.admin.*
-
   OverallOwner:
     options:
       prefix: '&c[&6O&ew&an&1e&br&d]&r &3&l&n'
@@ -97,5 +95,4 @@ users:
     group:
     - OverallOwner
     options:
-      name: Dumbass
- 
+      name: Redneck_Crazy04

@@ -4,12 +4,12 @@ PlayerInfo:
   Username: Redneck_Crazy04
   UUID: c2c5d7bc-e639-48d6-98d7-8dd8269df55c
   Location:
-    X: -4
-    Y: 94
-    Z: -2
+    X: 265
+    Y: 2
+    Z: -94
     World: world
   Stats:
-    Gamemode: survival
+    Gamemode: creative
     Health: 20.0
     Hunger: 20
     Level: 0
